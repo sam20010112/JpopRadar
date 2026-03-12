@@ -1,0 +1,18 @@
+# Maven build output
+backend/target/
+
+# Runtime logs
+backend/logs/
+frontend/logs/
+
+# npm dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Process ID file
+.pids
+
+# IDE artifacts
+.idea/
+*.iml
+.vscode/

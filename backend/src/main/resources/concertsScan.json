@@ -1,0 +1,5235 @@
+[
+  {
+    "id": "2096",
+    "artist": "龍宮城",
+    "title": "龍宮城 ARENA LIVE 2026 -SHIBAI-",
+    "venue": "TOYOTA ARENA TOKYO",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2096",
+    "dates": [
+      "2026.02.28 (Sat)",
+      "2026.03.01 (Sun)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "・指定席：9,350円(税込)",
+      "・スペシャルグッズ付き 指定席：14,350円(税込)",
+      "・注釈付き指定席：9,350円(税込)",
+      "・「龍宮場」特別アップグレード：＋10,000円(税込)",
+      "・アップグレード：＋5,000円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.01.31(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/ryugujo/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/ryugujo-t/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/ryugujo/"
+      }
+    ],
+    "official_site": "https://ryugujo-official.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2545",
+    "artist": "るぅと",
+    "title": "君と僕の約束 in 国⽴代々⽊競技場第⼀体育館",
+    "venue": "国立代々木競技場　第一体育館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2545",
+    "dates": [
+      "2026.02.28 (Sat)",
+      "2026.03.01 (Sun)"
+    ],
+    "open_time": "11:30",
+    "start_time": "12:30",
+    "prices": [
+      "※内訳：⼀般指定席チケット(8,800円)＋アップグレード料⾦(9,200円)",
+      "当選された場合、アップグレード料⾦として1枚につき9,200円(税込)＋⼿数料をお⽀払いいただきます。",
+      "通しチケットをアップグレードする場合は1件(2公演分)につき、18,400円(税込)+⼿数料をお⽀払いいただきます。"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://strawberryprince.stpr.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2566",
+    "artist": "スターダスト☆レビュー",
+    "title": "45周年ツアー2025～27「星屑冒険王」",
+    "venue": "大宮ソニックシティ 大ホール",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2566",
+    "dates": [
+      "2026.03.01 (Sun)"
+    ],
+    "open_time": "16:15",
+    "start_time": "17:00",
+    "prices": [
+      "●一般・指定席[前売]￥8,800(税込)",
+      "●ジュニア/シニア/障がい者(児)割引・指定席[前売]￥8,300(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/stardustrevue/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/word/0000000654"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/artist/000000000013408/"
+      }
+    ],
+    "official_site": "http://www.s-d-r.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2352",
+    "artist": "aiko",
+    "title": "aiko Live Tour Love Like Pop vol.25",
+    "venue": "東京ガーデンシアター",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2352",
+    "dates": [
+      "2026.03.04 (Wed)",
+      "2026.03.05 (Thu)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定￥8,200(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/aiko-llp25/"
+      }
+    ],
+    "official_site": "http://aiko.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2633",
+    "artist": "Ku:ui",
+    "title": "Ku:ui presents LIVE \"Buddy\"",
+    "venue": "Spotify O-nest (旧 TSUTAYA O-nest)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2633",
+    "dates": [
+      "2026.03.04 (Wed)"
+    ],
+    "open_time": "18:00",
+    "start_time": "18:30",
+    "prices": [
+      "スタンディング￥4,000-（税込）※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/kuui-t/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/ku_ui/"
+      }
+    ],
+    "official_site": "",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2582",
+    "artist": "渡會将士",
+    "title": "Third eye Tour",
+    "venue": "HEAVEN’S ROCKさいたま新都心 VJ-3",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2582",
+    "dates": [
+      "2026.03.06 (Fri)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "スタンディング￥5,000(税込)※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://wataraimasashi.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2512",
+    "artist": "LOVE PSYCHEDELICO",
+    "title": "LOVE PSYCHEDELICO 25th Anniversary Tour",
+    "venue": "昭和女子大学 人見記念講堂",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2512",
+    "dates": [
+      "2026.03.06 (Fri)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "全席指定 ￥7,700-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/order/?gLcode=70201"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2537611"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/detail/0009660001-P0030175?P1=0175"
+      }
+    ],
+    "official_site": "http://lovepsychedelico.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2459",
+    "artist": "パスピエ",
+    "title": "PSPE 2026 TOUR「意味新」",
+    "venue": "ReNY beta",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2459",
+    "dates": [
+      "2026.03.07 (Sat)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:00",
+    "prices": [
+      "※整理番号付き ※入場時別途1ドリンク代700円必要",
+      "①チケット料金　5,940円（消費税込）　※アルバムバンドル無し",
+      "②P.S.P.E 限定盤スペシャルBOXパッケージ バンドルチケット　15,840円（消費税込、チケット料金5,940円、P.S.P.E 限定盤料金9,900円）",
+      "③初回限定盤バンドルチケット　12,540円（消費税込、チケット料金5,940円、初回限定盤料金6,600円）オフィシャル先行まで受付",
+      "④通常盤バンドルチケット　9,240円（消費税込、チケット料金5,940円、通常盤料金3,300円）オフィシャル先行まで受付"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/pspe-26/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/passepied/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/passepied/"
+      }
+    ],
+    "official_site": "http://passepied.info",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2542",
+    "artist": "UA",
+    "title": "NEWME 026",
+    "venue": "昭和女子大学 人見記念講堂",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2542",
+    "dates": [
+      "2026.03.07 (Sat)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "全席指定：￥8,800-(税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2540382"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/order/?gLcode=75853"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/detail/0094730001-P0030111P021001?P1=1221"
+      }
+    ],
+    "official_site": "http://www.uaua.jp",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2694",
+    "artist": "PARK HYUNG SIK",
+    "title": "2026 PARK HYUNGSIK FANMEETING The Next Page [Again, Together - Our Second Story]",
+    "venue": "東京国際フォーラム　ホールA",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2694",
+    "dates": [
+      "2026.03.12 (Thu)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "FC 全席指定：13,000円（税込）※SIKcret JAPAN先行入場特典：メッセージカード",
+      "一般 全席指定：14,300円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://parkhyungsik.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2626",
+    "artist": "ブランデー戦記",
+    "title": "BRANDY SENKI QUATTRO TOUR 2026",
+    "venue": "SHIBUYA CLUB QUATTRO",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2626",
+    "dates": [
+      "2026.03.12 (Thu)",
+      "2026.03.13 (Fri)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/brandysenki2026/"
+      }
+    ],
+    "official_site": "https://brandysenki.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2632",
+    "artist": "D.U.N.K. Showcase",
+    "title": "D.U.N.K. Showcase in K-Arena Yokohama 2026",
+    "venue": "Kアリーナ横浜",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2632",
+    "dates": [
+      "2026.03.13 (Fri)",
+      "2026.03.15 (Sun)"
+    ],
+    "open_time": "15:30",
+    "start_time": "17:00",
+    "prices": [
+      "全席指定 ¥19,000-(税込)",
+      "・ご当選された場合、「全席指定」からの差額4,000円(税込)をお支払いいただきます。"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)12:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/dunk/"
+      }
+    ],
+    "official_site": "https://dunk.dance/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2607",
+    "artist": "東京女子流",
+    "title": "EPISODE-167 ありがとう、SHIBUYA PLEASURE PLEASURE。",
+    "venue": "SHIBUYA PLEASURE PLEASURE",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2607",
+    "dates": [
+      "2026.03.14 (Sat)"
+    ],
+    "open_time": "13:00",
+    "start_time": "13:30",
+    "prices": [
+      "全席指定 5,200円（税込）／入場時別途ドリンク代（600円）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/tokyogirlsstyle/"
+      }
+    ],
+    "official_site": "http://tokyogirlsstyle.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2367",
+    "artist": "舟津真翔",
+    "title": "舟津真翔 ONE MAN LIVE 2026『REFLECTION』",
+    "venue": "Spotify O-EAST",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2367",
+    "dates": [
+      "2026.03.14 (Sat)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "・オールスタンディングVIP ¥10,000-(税込) ※ドリンク代別 ※前方エリア観覧・公開リハーサル観覧ご招待",
+      "・オールスタンディング ¥5,500-(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.14(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/manato-funatsu-t/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/funatsu-manato/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/funatsumanato/"
+      }
+    ],
+    "official_site": "https://manato-funatsu.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2679",
+    "artist": "原因は自分にある。",
+    "title": "LIVE TOUR 2026 輪廻の箱庭",
+    "venue": "大宮ソニックシティ 大ホール",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2679",
+    "dates": [
+      "2026.03.17 (Tue)",
+      "2026.03.18 (Wed)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席　9,000円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "https://l-tike.com/genjibu/",
+        "url": "https://l-tike.com/genjibu/"
+      }
+    ],
+    "official_site": "https://genjibu.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2594",
+    "artist": "NiziU",
+    "title": "NiziU Live with U 2026 “NEW EvoNUtion”",
+    "venue": "国立代々木競技場　第一体育館",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2594",
+    "dates": [
+      "2026.03.18 (Wed)",
+      "2026.03.19 (Thu)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定 13,200円(税込)",
+      "注釈付指定席 12,700円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.09(Mon)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/niziu-tour26/"
+      }
+    ],
+    "official_site": "https://niziu.com",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2534",
+    "artist": "かりゆし58",
+    "title": "かりゆし58 20th TRIBUTE ALBUM -Solo-solo HA!touch- TOUR",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2534",
+    "dates": [
+      "2026.03.20 (Fri)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "一般発売：2025.12.20(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/kariyushi58/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/kariyushi58-t/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/kariyushi58/"
+      }
+    ],
+    "official_site": "http://kariyushi58.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2578",
+    "artist": "RIP SLYME",
+    "title": "RIP SLYME 25th Anniversary GREATEST LIVE – Final Three Nights –",
+    "venue": "TOYOTA ARENA TOKYO",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2578",
+    "dates": [
+      "2026.03.20 (Fri)",
+      "2026.03.22 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "3日間通し券：55,555円（税込）※グッズ付き",
+      "1日券：20,000円（税込）※グッズ付き",
+      "1日券（注釈付き指定席）：20,000円（税込・グッズ付き）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://ripslyme.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2595",
+    "artist": "NiziU",
+    "title": "NiziU Live with U 2026 “NEW EvoNUtion”",
+    "venue": "国立代々木競技場　第一体育館",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2595",
+    "dates": [
+      "2026.03.21 (Sat)",
+      "2026.03.22 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "全席指定 13,200円(税込)",
+      "注釈付指定席 12,700円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.09(Mon)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/niziu-tour26/"
+      }
+    ],
+    "official_site": "https://niziu.com",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2330",
+    "artist": "渡會将士",
+    "title": "渡會将士ONEMAN LIVE「MW QUATTRO」",
+    "venue": "SHIBUYA CLUB QUATTRO",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2330",
+    "dates": [
+      "2026.03.21 (Sat)"
+    ],
+    "open_time": "17:15",
+    "start_time": "18:00",
+    "prices": [
+      "・スタンディング￥6,600(税込)※ドリンク代別途必要",
+      "・スタンディング（U23）￥3,300(税込)※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2025.12.13(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://wataraimasashi.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2465",
+    "artist": "ハンバート ハンバート",
+    "title": "ツアー2026「歌ったり喋ったり」",
+    "venue": "東京国際フォーラム　ホールA",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2465",
+    "dates": [
+      "2026.03.21 (Sat)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "S席：7,500円（税込）",
+      "A席：6,800円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.humberthumbert.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2422",
+    "artist": "HANA",
+    "title": "HANA 1st TOUR 2026 “Born to Bloom”",
+    "venue": "水戸市民会館 グロービスホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2422",
+    "dates": [
+      "2026.03.21 (Sat)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席 ￥10,890(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/hana-1sttour/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/hana/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/hana/"
+      }
+    ],
+    "official_site": "https://hana.b-rave.tokyo/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2355",
+    "artist": "GACKT",
+    "title": "LAST SONGS 2026 feat. K",
+    "venue": "LINE CUBE SHIBUYA（渋谷公会堂）",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2355",
+    "dates": [
+      "2026.03.21 (Sat)",
+      "2026.03.22 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "ダイヤモンド指定席 60,000円（税込）",
+      "プラチナム指定席 30,000円（税込）",
+      "指定席 10,000円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/gackt2026/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/gackt2026/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/gackt2026/"
+      }
+    ],
+    "official_site": "https://gackt.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2704",
+    "artist": "CiON",
+    "title": "CiON 2026 Anniversary Live Aika’s Birthday Party ”二十歳”",
+    "venue": "SHIBUYA PLEASURE PLEASURE",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2704",
+    "dates": [
+      "2026.03.23 (Mon)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "全席指定：¥5,000(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://con-music.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2474",
+    "artist": "SCOOBIE DO",
+    "title": "SCOOBIE DO TOUR「Funk-a-lismo! vol.16」",
+    "venue": "SHIBUYA CLUB QUATTRO",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2474",
+    "dates": [
+      "2026.03.28 (Sat)"
+    ],
+    "open_time": "16:45",
+    "start_time": "17:30",
+    "prices": [
+      "スタンディング ￥5,500-(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2025.10.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2533751"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/order/?gLcode=73707"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/detail/0038920001-P0030636?P1=0175"
+      }
+    ],
+    "official_site": "http://www.scoobie-do.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2672",
+    "artist": "超ときめき♡宣伝部",
+    "title": "ときめき♡春の晴れ舞台2026",
+    "venue": "ぴあアリーナMM",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2672",
+    "dates": [
+      "2026.03.28 (Sat)",
+      "2026.03.29 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "指定席　9,800円（税込）",
+      "着席指定席　9,800円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/tokisen/"
+      }
+    ],
+    "official_site": "https://toki-sen.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2535",
+    "artist": "中島愛",
+    "title": "Megumi Nakajima Acoustic Live Tour “like a bird” in TOKYO",
+    "venue": "SHIBUYA PLEASURE PLEASURE",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2535",
+    "dates": [
+      "2026.03.29 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定 ￥8,000(税込)※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://nakajima-megumi.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2423",
+    "artist": "HANA",
+    "title": "HANA 1st TOUR 2026 “Born to Bloom”",
+    "venue": "東京国際フォーラム　ホールA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2423",
+    "dates": [
+      "2026.03.29 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席 ￥10,890(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/hana-1sttour/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/hana/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/hana/"
+      }
+    ],
+    "official_site": "https://hana.b-rave.tokyo/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2374",
+    "artist": "須田景凪",
+    "title": "須田景凪 TOUR 2026 \"GLIMMER\"",
+    "venue": "Kanadevia Hall",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2374",
+    "dates": [
+      "2026.03.29 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "全席指定席￥8,000-(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/sudakeina-tour2026/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/sudakeina/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/suda-keina/"
+      }
+    ],
+    "official_site": "https://www.tabloid0120.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2681",
+    "artist": "ソウル・フラワー・アコースティック・パルチザン",
+    "title": "『中川敬還暦祭／闇鍋音楽祭2026』",
+    "venue": "代官山UNIT",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2681",
+    "dates": [
+      "2026.03.29 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "17:30",
+    "prices": [
+      "一般￥6,000(税込)※ドリンク代別途必要",
+      "学割￥3,000(税込)※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.07(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      },
+      {
+        "name": "https://eplus.jp/sfu-ac/",
+        "url": "https://eplus.jp/sfu-ac/"
+      }
+    ],
+    "official_site": "https://breast.co.jp/soulflower/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2743",
+    "artist": "WOODZ",
+    "title": "2026 WOODZ WORLD TOUR 'Archive. 1' IN JAPAN",
+    "venue": "豊洲PIT",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2743",
+    "dates": [
+      "2026.03.29 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "VIPチケット￥25,300(税込)※ご入場時1drink代別途必要",
+      "全自由￥14,300(税込)※ご入場時1drink代別途必要"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://marooent.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2597",
+    "artist": "ヤバイTシャツ屋さん",
+    "title": "ヤバイTシャツ屋さん \"赤ちゃん\" リリースツアー 2026",
+    "venue": "Spotify O-EAST",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2597",
+    "dates": [
+      "2026.03.30 (Mon)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://yabaitshirtsyasan.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2726",
+    "artist": "四六時中ムチュー",
+    "title": "四六時中ムチュー1stワンマンライブ",
+    "venue": "Spotify O-Crest (旧 TSUTAYA O-Crest)",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2726",
+    "dates": [
+      "2026.03.30 (Mon)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "■優先入場券(手売り)：￥3,500(税込)",
+      "■一般：￥2,500(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.14(Sat)13:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      }
+    ],
+    "official_site": "https://shiro-muchu.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2660",
+    "artist": "超十代 -ULTRA TEENS FES- 2026 presented by docomo",
+    "title": "超十代 -ULTRA TEENS FES- 2026 presented by docomo",
+    "venue": "国立代々木競技場　第一体育館",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2660",
+    "dates": [
+      "2026.03.31 (Tue)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "先行：￥13,200(税込)",
+      "一般：￥14,300(税込)",
+      "先行：￥8,800(税込)",
+      "一般：￥9,900(税込)",
+      "先行：￥4,400(税込)",
+      "一般：￥5,500(税込)",
+      "一般：￥5,500(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.14(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/ultrateensfes2026/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/chojudai/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/chojudai/<br />\n"
+      }
+    ],
+    "official_site": "https://event.chojudai.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2671",
+    "artist": "東京女子流",
+    "title": "東京女子流 Last Live ～＊キセキの物語＊～",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "2026.03.08発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2671",
+    "dates": [
+      "2026.03.31 (Tue)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "1階スタンディング 8,800円（税込）／入場時別途ドリンク代（600円）",
+      "2階指定席 8,800円（税込）／入場時別途ドリンク代（600円）"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.08(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/tokyogirlsstyle/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/artist/artists.do?artistsCd=9C210036"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/word/0000040250"
+      }
+    ],
+    "official_site": "http://tokyogirlsstyle.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2682",
+    "artist": "VS.超特急",
+    "title": "VS.超特急",
+    "venue": "有明アリーナ",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2682",
+    "dates": [
+      "2026.03.31 (Tue)",
+      "2026.04.01 (Wed)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定：11,500円 (税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://vs.bullettrain.live",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2467",
+    "artist": "椎名林檎",
+    "title": "椎名林檎　党大会　令和八年列島巡回",
+    "venue": "すみだトリフォニーホール",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2467",
+    "dates": [
+      "2026.04.01 (Wed)",
+      "2026.04.02 (Thu)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定　12,500円（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.22(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      }
+    ],
+    "official_site": "https://www.kronekodow.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2735",
+    "artist": "THE GAME CENTER -FOOTBALL DREAM MATCH- in Saitama Stadium 2〇〇2",
+    "title": "THE GAME CENTER -FOOTBALL DREAM MATCH- in Saitama Stadium 2〇〇2",
+    "venue": "埼玉スタジアム２○○２",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2735",
+    "dates": [
+      "2026.04.04 (Sat)"
+    ],
+    "open_time": "12:00",
+    "start_time": "14:00",
+    "prices": [
+      "全席指定 ￥9,900-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/thegamecenter/"
+      }
+    ],
+    "official_site": "https://thegamecenter.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2689",
+    "artist": "J",
+    "title": "J LIVE 2026 Spring - BLAST OFF -",
+    "venue": "SHIBUYA CLUB QUATTRO",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2689",
+    "dates": [
+      "2026.04.04 (Sat)"
+    ],
+    "open_time": "17:15",
+    "start_time": "18:00",
+    "prices": [
+      "¥7,000＋消費税¥700　※ドリンク代¥600別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)12:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/j-live/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/j/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/j-2526/"
+      }
+    ],
+    "official_site": "http://www.j-wumf.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2528",
+    "artist": "ゾンビランドサガLIVE",
+    "title": "ゾンビランドサガLIVE～フランシュシュ ゆめぎんがフェスティバル～",
+    "venue": "ぴあアリーナMM",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2528",
+    "dates": [
+      "2026.04.04 (Sat)",
+      "2026.04.05 (Sun)"
+    ],
+    "open_time": "15:00",
+    "start_time": "16:00",
+    "prices": [
+      "プレミアム席　30,000円（税込）",
+      "一般席　13,000円（税込）",
+      "注釈付き指定席 13,000円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://zombielandsaga-movie.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2574",
+    "artist": "docomo presents THE MUSIC STADIUM 2026 organized by ONE OK ROCK",
+    "title": "docomo presents THE MUSIC STADIUM 2026 organized by ONE OK ROCK",
+    "venue": "MUFGスタジアム（国立競技場）",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2574",
+    "dates": [
+      "2026.04.04 (Sat)",
+      "2026.04.05 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "S指定席￥18,000(税込)",
+      "指定席￥14,000(税込)",
+      "注釈付き指定席￥14,000(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://ssw.web.docomo.ne.jp/ticket/themusicstadium/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2774",
+    "artist": "ONE LOVE ONE HEART",
+    "title": "【14:30】LOVE at \"LOVE MEETING 2026\" ～Family Party～　【18:00】LOVE at \"LOVE MEETING 2026\" ～Party Night～",
+    "venue": "品川インターシティホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2774",
+    "dates": [
+      "2026.04.05 (Sun)"
+    ],
+    "open_time": "14:00",
+    "start_time": "14:30",
+    "prices": [
+      "全席指定 7,500円(税込)　※入場時別途ドリンク代600円"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://oneloveoneheart.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2754",
+    "artist": "CiON",
+    "title": "CiON’s Love Call 2026 supported byライブナタリー",
+    "venue": "代官山UNIT",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2754",
+    "dates": [
+      "2026.04.08 (Wed)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "立見：6,500円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://con-music.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2742",
+    "artist": "LOVE PSYCHEDELICO",
+    "title": "LOVE PSYCHEDELICO 25th Anniversary Tour",
+    "venue": "NHKホール",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2742",
+    "dates": [
+      "2026.04.09 (Thu)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "全席指定 ￥7,700-(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.06(Fri)17:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/order/?gLcode=73356"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2606869"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/detail/0009660001-P0030186?P1=0175"
+      }
+    ],
+    "official_site": "http://lovepsychedelico.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2553",
+    "artist": "ACIDMAN",
+    "title": "ACIDMAN LIVE TOUR \"光学\"",
+    "venue": "KT Zepp Yokohama",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2553",
+    "dates": [
+      "2026.04.09 (Thu)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "◆1Fスタンディング 6,800円(税込) ※ドリンク代別・入場整理番号付",
+      "◆1Fスタンディング学割 4,000円(税込) ※ドリンク代別・入場整理番号付",
+      "◆2F指定 7,500円(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.01.10(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/acidman/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/acidman/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/acidman-/"
+      }
+    ],
+    "official_site": "http://acidman.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2684",
+    "artist": "山下達郎",
+    "title": "TATSURO YAMASHITA LIVE at SGC HALL ARIAKE",
+    "venue": "SGC HALL ARIAKE",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2684",
+    "dates": [
+      "2026.04.11 (Sat)",
+      "2026.04.12 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定　13,000円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "こちら",
+        "url": "https://eplus.jp/sf/s/page/irg/tatsuro-sgc"
+      },
+      {
+        "name": "https://eplus.jp/qa/",
+        "url": "https://eplus.jp/qa/"
+      }
+    ],
+    "official_site": "http://www.tatsuro.co.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2385",
+    "artist": "めいちゃん",
+    "title": "Meychan Live Tour 2026『Number 0』",
+    "venue": "有明アリーナ",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2385",
+    "dates": [
+      "2026.04.11 (Sat)",
+      "2026.04.12 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/meychan-26/"
+      }
+    ],
+    "official_site": "https://meychan.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2773",
+    "artist": "逢田梨香子",
+    "title": "逢田梨香子 OFFICIAL FAN MEETING「with Us」vol.4",
+    "venue": "大手町三井ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2773",
+    "dates": [
+      "2026.04.12 (Sun)"
+    ],
+    "open_time": "13:00",
+    "start_time": "14:00",
+    "prices": [
+      "全席指定 ￥8,000-(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/rikakoaida/"
+      }
+    ],
+    "official_site": "https://rikakoaida.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2460",
+    "artist": "パスピエ",
+    "title": "PSPE 2026 TOUR「意味新」",
+    "venue": "ヒューリックホール東京",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2460",
+    "dates": [
+      "2026.04.12 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "全席指定 ※入場時別途1ドリンク代600円必要",
+      "①チケット料金　6,600円（消費税込）　※アルバムバンドル無し",
+      "16,500円（消費税込、チケット料金6,600円、FC限定豪華グッズ盤料金9,900円）",
+      "13,200円（消費税込、チケット料金6,600円、初回限定盤料金6,600円）",
+      "9,900円（消費税込、チケット料金6,600円、通常盤料金3,300円）"
+    ],
+    "ticket_sale_date": "一般発売：2026.01.24(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/pspe-26/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/passepied/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/passepied/"
+      }
+    ],
+    "official_site": "http://passepied.info",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2734",
+    "artist": "EGO-WRAPPIN'",
+    "title": "live tour \"HALL LOTTA LOVE　〜ホールに溢れる愛を〜\"",
+    "venue": "かつしかシンフォニーヒルズ モーツァルトホール",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2734",
+    "dates": [
+      "2026.04.14 (Tue)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "全席指定 7,700円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.28(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "http://www.egowrappin.com",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2755",
+    "artist": "CiON",
+    "title": "CiON’s Love Call 2026 supported byライブナタリー",
+    "venue": "BLAZE GOTANDA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2755",
+    "dates": [
+      "2026.04.15 (Wed)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "立見：6,500円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://con-music.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2638",
+    "artist": "THE ALFEE",
+    "title": "THE ALFEE　Spring Celebration 2026　Moonlight Rhapsody",
+    "venue": "東京ガーデンシアター",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2638",
+    "dates": [
+      "2026.04.15 (Wed)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "指定席 ￥8,800-(税込) ※メモリアルチケット付",
+      "注釈付き指定席 ￥8,800-(税込) ※メモリアルチケット付",
+      "車椅子席￥8,800-(税込) ※メモリアルチケット付"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/alfee-26s/"
+      }
+    ],
+    "official_site": "https://www.alfee.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2712",
+    "artist": "PARK YUCHUN",
+    "title": "PARK YUCHUN 2026 ZEPP TOUR",
+    "venue": "KT Zepp Yokohama",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2712",
+    "dates": [
+      "2026.04.15 (Wed)"
+    ],
+    "open_time": "13:45",
+    "start_time": "14:30",
+    "prices": [
+      "※公演毎に、ドリンク代￥600が必要です。"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://x.com/Japan_jp_office",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2417",
+    "artist": "Leina",
+    "title": "Leina Live Tour 2026 \"Jellyfish\"",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2417",
+    "dates": [
+      "2026.04.16 (Thu)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "スタンディング ¥6,800 (税込・⼊場時別途ドリンク代)",
+      "2F指定席 ¥7,500 (税込・⼊場時別途ドリンク代)"
+    ],
+    "ticket_sale_date": "一般発売：2025.09.27(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://lit.link/Leina",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2756",
+    "artist": "CiON",
+    "title": "CiON’s Love Call 2026 supported byライブナタリー",
+    "venue": "BLAZE GOTANDA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2756",
+    "dates": [
+      "2026.04.17 (Fri)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "立見：6,500円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://con-music.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2639",
+    "artist": "THE ALFEE",
+    "title": "THE ALFEE　Spring Celebration 2026　Moonlight Rhapsody",
+    "venue": "東京ガーデンシアター",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2639",
+    "dates": [
+      "2026.04.17 (Fri)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "指定席 ￥8,800-(税込) ※メモリアルチケット付",
+      "注釈付き指定席 ￥8,800-(税込) ※メモリアルチケット付",
+      "車椅子席￥8,800-(税込) ※メモリアルチケット付"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/alfee-26s/"
+      }
+    ],
+    "official_site": "https://www.alfee.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2723",
+    "artist": "NakamuraEmi",
+    "title": "NakamuraEmi 10th Anniversary 「 背負い投げ 5本⽬ 」",
+    "venue": "代官山UNIT",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2723",
+    "dates": [
+      "2026.04.18 (Sat)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "スタンディング ¥6,600-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/nakamuraemi10th/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/nakamuraemi/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2420",
+    "artist": "にしな",
+    "title": "にしな ツアー2026「日々散漫」",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2420",
+    "dates": [
+      "2026.04.18 (Sat)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "一般発売：2026.01.24(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/nishina2026/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/nishina/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/nishina/"
+      }
+    ],
+    "official_site": "https://nishina247.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2659",
+    "artist": "Mrs. GREEN APPLE",
+    "title": "ゼンジン未到とイ/ミュータブル〜間奏編〜",
+    "venue": "MUFGスタジアム（国立競技場）",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2659",
+    "dates": [
+      "2026.04.18 (Sat)",
+      "2026.04.19 (Sun)"
+    ],
+    "open_time": "16:30",
+    "start_time": "18:30",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://mrsgreenapple.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2634",
+    "artist": "Ku:ui",
+    "title": "Ku:ui ONE  MAN LIVE \"u:u\"",
+    "venue": "Veats Shibuya",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2634",
+    "dates": [
+      "2026.04.19 (Sun)"
+    ],
+    "open_time": "17:15",
+    "start_time": "18:00",
+    "prices": [
+      "スタンディング￥4,500-（税込）※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.01.17(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/kuui-t/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/ku_ui/"
+      }
+    ],
+    "official_site": "",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2757",
+    "artist": "CiON",
+    "title": "CiON’s Love Call 2026 supported byライブナタリー",
+    "venue": "代官山UNIT",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2757",
+    "dates": [
+      "2026.04.20 (Mon)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "立見：6,500円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://con-music.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2513",
+    "artist": "LOVE PSYCHEDELICO",
+    "title": "LOVE PSYCHEDELICO 25th Anniversary Tour",
+    "venue": "LINE CUBE SHIBUYA（渋谷公会堂）",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2513",
+    "dates": [
+      "2026.04.22 (Wed)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定 ￥7,700-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/order/?gLcode=70201"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2537611"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/detail/0009660001-P0030176?P1=0175"
+      }
+    ],
+    "official_site": "http://lovepsychedelico.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2758",
+    "artist": "CiON",
+    "title": "CiON’s Love Call 2026 supported byライブナタリー",
+    "venue": "代官山UNIT",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2758",
+    "dates": [
+      "2026.04.22 (Wed)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "立見：6,500円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://con-music.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2610",
+    "artist": "小泉今日子",
+    "title": "KK60 〜コイズミ記念館〜 KYOKO KOIZUMI TOUR 2026",
+    "venue": "NHKホール",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2610",
+    "dates": [
+      "2026.04.22 (Wed)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定 12,000円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.14(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/kyokokoizumi-tour2026/"
+      }
+    ],
+    "official_site": "https://www.jvcmusic.co.jp/kyon2/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2760",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "SLOW TIME cafe",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2760",
+    "dates": [
+      "2026.04.23 (Thu)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※ドリンク代別　※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2761",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "高根沢ちょっ蔵ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2761",
+    "dates": [
+      "2026.04.25 (Sat)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2628",
+    "artist": "EGO-WRAPPIN'",
+    "title": "live tour \"HALL LOTTA LOVE　〜ホールに溢れる愛を〜\"",
+    "venue": "昭和女子大学 人見記念講堂",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2628",
+    "dates": [
+      "2026.04.25 (Sat)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "全席指定 7,700円(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/detail/0022560001-P0030320?P1=1221"
+      }
+    ],
+    "official_site": "http://www.egowrappin.com",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2749",
+    "artist": "Miyama Ryoki",
+    "title": "RYOKI MIYAMA 2026 Birthday Concert!!!",
+    "venue": "duo MUSIC EXCHANGE",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2749",
+    "dates": [
+      "2026.04.26 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "オールスタンディング：￥10,000(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://gomasu.life/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2720",
+    "artist": "Lenny code fiction",
+    "title": "1部【先行試写会 THE BEST】／2部【Lenny's HISTORY】",
+    "venue": "HARAJUKU RUIDO",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2720",
+    "dates": [
+      "2026.04.26 (Sun)"
+    ],
+    "open_time": "14:30",
+    "start_time": "15:00",
+    "prices": [
+      "オールスタンディング ￥3,500-(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.21(Sat)21:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      }
+    ],
+    "official_site": "http://www.lennycodefiction.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2665",
+    "artist": "Lucy",
+    "title": "Lucy Show 003 ～Shout, Speed, Shake Your RockaRollica～",
+    "venue": "SUPERNOVA KAWASAKI",
+    "ticket_status": "2026.04.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2665",
+    "dates": [
+      "2026.04.26 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "全立見 8,800円(税込) ※ドリンク代別・入場整理番号付"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.04(Sat)10:00",
+    "ticket_vendors": [],
+    "official_site": "https://lucy2026.fanpla.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2762",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "MINERVA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2762",
+    "dates": [
+      "2026.04.26 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※ドリンク代別　※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2619",
+    "artist": "Negicco",
+    "title": "Negicco 2026 live：Make Up Prelude supported byサトウ食品",
+    "venue": "Spotify O-EAST",
+    "ticket_status": "2026.03.13発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2619",
+    "dates": [
+      "2026.04.26 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "※全席種、入場時別途ドリンク代￥600必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.13(Fri)19:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/negicco/"
+      }
+    ],
+    "official_site": "http://negicco.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2727",
+    "artist": "D'ERLANGER",
+    "title": "Evermore TOUR 2026",
+    "venue": "EX THEATER ROPPONGI",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2727",
+    "dates": [
+      "2026.04.29 (Wed)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "プレミアムシート　￥13,000(税込)　※プレミアムグッズ付き　※ドリンク代別",
+      "指定席　￥9,000（税込） ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.derlanger.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2504",
+    "artist": "BUDDiiS",
+    "title": "BUDDiiS vol.11 Hall Tour - FLORiiA -",
+    "venue": "パシフィコ横浜 国立大ホール",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2504",
+    "dates": [
+      "2026.04.29 (Wed)"
+    ],
+    "open_time": "16:30",
+    "start_time": "17:30",
+    "prices": [
+      "指定席　￥9,000 (税込)",
+      "着席指定席　￥9,000(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/buddiis/"
+      }
+    ],
+    "official_site": "https://buddiis.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2769",
+    "artist": "竹原ピストル",
+    "title": "”竹原ピストルワンマンライブ 〜バンド編〜”",
+    "venue": "代官山UNIT",
+    "ticket_status": "2026.03.15発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2769",
+    "dates": [
+      "2026.04.29 (Wed)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "オールスタンディング ¥6,600-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.15(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2468",
+    "artist": "椎名林檎",
+    "title": "椎名林檎　党大会　令和八年列島巡回",
+    "venue": "すみだトリフォニーホール",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2468",
+    "dates": [
+      "2026.04.30 (Thu)",
+      "2026.05.01 (Fri)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定　12,500円（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.22(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      }
+    ],
+    "official_site": "https://www.kronekodow.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2771",
+    "artist": "鈴木凌",
+    "title": "Ryo Suzuki Second Tour 2026 『LUMINOUS』 〜まだ見ぬ輝きへ〜",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2771",
+    "dates": [
+      "2026.05.02 (Sat)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "¥35,000(税込)　※ドリンク代別",
+      "¥8,800(税込)　※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://suzuki-ryo.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2497",
+    "artist": "小泉今日子",
+    "title": "KK60 〜コイズミ記念館〜 KYOKO KOIZUMI TOUR 2026",
+    "venue": "日本武道館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2497",
+    "dates": [
+      "2026.05.02 (Sat)",
+      "2026.05.03 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "●全席指定 12,000円(税込)",
+      "●注釈付指定 11,000円（税込）",
+      "●サイドビューシート 10,000円（税込）",
+      "●バックビューシート 10,000円（税込）",
+      "●立見  11,000円（税込） ※立ち位置指定"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/kyokokoizumi-tour2026/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/kyokokoizumi/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/koizumi-kyoko/"
+      }
+    ],
+    "official_site": "https://www.jvcmusic.co.jp/kyon2/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2601",
+    "artist": "渡辺美里",
+    "title": "渡辺美里 ULTRA POP スペシャル 〜じゃじゃ馬40th〜",
+    "venue": "東京ガーデンシアター",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2601",
+    "dates": [
+      "2026.05.02 (Sat)"
+    ],
+    "open_time": "16:30",
+    "start_time": "17:30",
+    "prices": [
+      "・全席指定 12,000円(税込)",
+      "・ファミリー席(大人) 12,000円(税込) ※下記参照"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.08(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "http://eplus.jp/misato/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/watanabe-misato-2026"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/misatowatanabe/"
+      }
+    ],
+    "official_site": "http://www.misatowatanabe.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2728",
+    "artist": "Parallel World 2026",
+    "title": "Parallel World 2026",
+    "venue": "豊洲PIT",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2728",
+    "dates": [
+      "2026.05.03 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定 ￥8,000(税込)※ご入場時ドリンク代￥600必須"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2779",
+    "artist": "秦  基博",
+    "title": "Hata Motohiro 20th Anniversary GREEN MIND EXPO",
+    "venue": "LINE CUBE SHIBUYA（渋谷公会堂）",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2779",
+    "dates": [
+      "2026.05.04 (Mon)"
+    ],
+    "open_time": "16:30",
+    "start_time": "17:30",
+    "prices": [
+      "指定席 8,800円(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/hata/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2700",
+    "artist": "TRiDENT",
+    "title": "TRiDENT 6th Anniversary『天下無双！無敵の無料ワンマンライブ』",
+    "venue": "Veats Shibuya",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2700",
+    "dates": [
+      "2026.05.05 (Tue)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "オールスタンディング：0円(税込)※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      }
+    ],
+    "official_site": "https://trident-japan.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2697",
+    "artist": "SIXFONIA",
+    "title": "SIXFONIA 2nd Live Tour -RAGE- 燃え上がれ そして激しくあれ＿＿＿。",
+    "venue": "Kアリーナ横浜",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2697",
+    "dates": [
+      "2026.05.05 (Tue)",
+      "2026.05.06 (Wed)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定 ￥9,000(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://sixfonia.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2649",
+    "artist": "Lucy",
+    "title": "Lucy Show 003 ～Shout, Speed, Shake Your RockaRollica～",
+    "venue": "LIQUIDROOM",
+    "ticket_status": "2026.04.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2649",
+    "dates": [
+      "2026.05.05 (Tue)",
+      "2026.05.06 (Wed)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "全立見 8,800円(税込) ※ドリンク代別・入場整理番号付"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.04(Sat)10:00",
+    "ticket_vendors": [],
+    "official_site": "https://lucy2026.fanpla.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2748",
+    "artist": "Miyama Ryoki",
+    "title": "RYOKI MIYAMA First Tour “Back from the coffin.”",
+    "venue": "Zepp Haneda(TOKYO)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2748",
+    "dates": [
+      "2026.05.06 (Wed)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "スタンディング：￥11,000(税込)",
+      "2階 指定席：￥11,000(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://gomasu.life/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2780",
+    "artist": "ヒプノシスマイク",
+    "title": "『ヒプノシスマイク -Division Rap Battle-』Rule the Stage -中王区 the LIVE-",
+    "venue": "KT Zepp Yokohama",
+    "ticket_status": "2026.03.28発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2780",
+    "dates": [
+      "2026.05.08 (Fri)",
+      "2026.05.09 (Sat)"
+    ],
+    "open_time": "14:00",
+    "start_time": "19:00",
+    "prices": [
+      "12,000円（全席指定／税込）",
+      "※ドリンク代600円別途",
+      "見切れ席：12,000円（税込）",
+      "※ドリンク代600円別途"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.28(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/s-hypnosismic-chu-oh-ku/"
+      }
+    ],
+    "official_site": "https://hypnosismic-stage.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2661",
+    "artist": "スターダスト☆レビュー",
+    "title": "スターダスト☆レビュー 45周年ツアー2025～27　「星屑冒険王」",
+    "venue": "昭和女子大学人見記念講堂",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2661",
+    "dates": [
+      "2026.05.09 (Sat)",
+      "2026.05.10 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "●一般・指定席￥8,800（税込）",
+      "●ジュニア・シニア・障がい者(児)割引・指定席￥8,300（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/stardustrevue/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/word/0000000654"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/s-d-r/"
+      }
+    ],
+    "official_site": "http://www.s-d-r.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2651",
+    "artist": "Kstyle PARTY 2026",
+    "title": "Kstyle PARTY 2026",
+    "venue": "Kアリーナ横浜",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2651",
+    "dates": [
+      "2026.05.09 (Sat)",
+      "2026.05.10 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:30",
+    "prices": [
+      "Blind Ticket：14000円(税込)",
+      "全席指定：16000円(税込)",
+      "アップグレード席：+8000円(税込)※お見送り会への参加抽選付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://kstyle.com/ad/kstyleparty2026/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2640",
+    "artist": "2PM",
+    "title": "2PM Japan 15th Anniversary Concert “THE RETURN” in TOKYO DOME",
+    "venue": "東京ドーム",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2640",
+    "dates": [
+      "2026.05.09 (Sat)",
+      "2026.05.10 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "18:00",
+    "prices": [
+      "全席指定 15,500円(税込)",
+      "【料金】+10,000円(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "https://support-qa.eplus.jp/hc/ja/categories/360002892813",
+        "url": "https://support-qa.eplus.jp/hc/ja/categories/360002892813"
+      },
+      {
+        "name": "https://eplus.jp/2pm_the_return-toiawase/",
+        "url": "https://eplus.jp/2pm_the_return-toiawase/"
+      }
+    ],
+    "official_site": "http://www.2pmjapan.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2591",
+    "artist": "吉澤嘉代子",
+    "title": "吉澤嘉代子 「ホールツアー 2026」",
+    "venue": "NHKホール",
+    "ticket_status": "2026.03.07発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2591",
+    "dates": [
+      "2026.05.09 (Sat)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "指定席　8,800円（税込）",
+      "おみやげ付き前方指定席　12,000円（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.07(Sat)12:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/yoshizawakayoko/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/yoshizawakayoko/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/yoshizawakayoko"
+      }
+    ],
+    "official_site": "https://www.yoshizawakayoko.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2424",
+    "artist": "HANA",
+    "title": "HANA 1st TOUR 2026 “Born to Bloom”",
+    "venue": "市川市文化会館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2424",
+    "dates": [
+      "2026.05.09 (Sat)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席 ￥10,890(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/hana-1sttour/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/hana/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/hana/"
+      }
+    ],
+    "official_site": "https://hana.b-rave.tokyo/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2724",
+    "artist": "コトネの日",
+    "title": "コトネの日",
+    "venue": "渋谷5会場にて開催[duo MUSICEXCHANGE、SHIBUYA RING、clubasia、Studio Freedom、GRIT at Shibuya]",
+    "ticket_status": "2026.03.28発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2724",
+    "dates": [
+      "2026.05.10 (Sun)"
+    ],
+    "open_time": "12:30",
+    "start_time": "13:00",
+    "prices": [
+      "VIPチケット　10,000円（税込、VIPエリア、整理番号付、ドリンク代別）",
+      "スタンディング　5,100円（税込、整理番号付、ドリンク代別）"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.28(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/kotonenohi/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/kotone-n/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/kotonenohi/"
+      }
+    ],
+    "official_site": "https://twitter.com/IDOLidge",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2696",
+    "artist": "ONEW",
+    "title": "2026 ONEW FANMEETING [TOUGH LOVE] IN JAPAN",
+    "venue": "NHKホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2696",
+    "dates": [
+      "2026.05.13 (Wed)",
+      "2026.05.14 (Thu)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定 13,750円(税込)",
+      "プレミアムシート(全指定席) 19,250円(税込) ※FC先行/電子チケット発券限定",
+      "※「全指定席」からのアップグレードとなり、アップグレード抽選受付でお申込み・ご当選された場合、1枚につき差額代金5,500円(税込)を頂戴いたします。"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://onew-fc.jp",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2778",
+    "artist": "にしな",
+    "title": "にしな ツアー2026「日々散漫」",
+    "venue": "Spotify O-EAST",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2778",
+    "dates": [
+      "2026.05.14 (Thu)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://nishina247.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2776",
+    "artist": "DayDay.SUPER LIVE 2026",
+    "title": "DayDay. SUPER LIVE 2026",
+    "venue": "日本武道館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2776",
+    "dates": [
+      "2026.05.15 (Fri)",
+      "2026.05.17 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "全席指定：￥12,500（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/dayday-live2026/"
+      }
+    ],
+    "official_site": "https://dayday-live.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2637",
+    "artist": "THE ALFEE",
+    "title": "THE ALFEE　Spring Celebration 2026　Moonlight Rhapsody",
+    "venue": "NHKホール",
+    "ticket_status": "2026.04.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2637",
+    "dates": [
+      "2026.05.16 (Sat)",
+      "2026.05.17 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "指定席 ￥8,800-(税込) ※メモリアルチケット付",
+      "車椅子席￥8,800-(税込) ※メモリアルチケット付"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "https://eplus.jp/alfee-26s/",
+        "url": "https://eplus.jp/alfee-26s/"
+      }
+    ],
+    "official_site": "https://www.alfee.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2489",
+    "artist": "B小町（ルビー、有馬かな、MEMちょ）",
+    "title": "「B⼩町ライブツアー2026 - Beyond the Brilliance Virtual Live -」",
+    "venue": "東京ガーデンシアター",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2489",
+    "dates": [
+      "2026.05.16 (Sat)",
+      "2026.05.17 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "●特典グッズ付きチケット：￥13,800(税込)",
+      "●一般チケット：￥9,800(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://event-info.kadokawa.co.jp/oshinoko-virtuallive/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2733",
+    "artist": "D'ERLANGER",
+    "title": "Evermore TOUR 2026",
+    "venue": "柏PALOOZA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2733",
+    "dates": [
+      "2026.05.16 (Sat)",
+      "2026.05.17 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "オールスタンディング　￥9,000（税込） ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.derlanger.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2539",
+    "artist": "BE:FIRST",
+    "title": "BE:FIRST Stadium Live 2026 We are the \"BE:ST\"",
+    "venue": "味の素スタジアム",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2539",
+    "dates": [
+      "2026.05.16 (Sat)",
+      "2026.05.17 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "SS指定席【特典付きプレミアム席】：￥30,000(税込)",
+      "一般指定席：￥15,000(税込)",
+      "着席指定席：￥15,000(税込)",
+      "注釈付き指定席：￥14,000円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.01.17(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://befirst.tokyo/tour/Stadium-Live-2026/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2583",
+    "artist": "Laughing Hick",
+    "title": "Laughing Hick  ONEMAN TOUR 2026 \"ハロー ノットグッバイ”",
+    "venue": "千葉LOOK",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2583",
+    "dates": [
+      "2026.05.16 (Sat)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:00",
+    "prices": [
+      "スタンディング　￥4,500-（税込・ドリンク代別）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2541549"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/laughinghick/"
+      }
+    ],
+    "official_site": "https://lit.link/LaughingHick",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2666",
+    "artist": "Lucy",
+    "title": "Lucy Show 003 ～Shout, Speed, Shake Your RockaRollica～",
+    "venue": "Zepp Shinjuku (TOKYO)",
+    "ticket_status": "2026.04.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2666",
+    "dates": [
+      "2026.05.17 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "全立見 8,800円(税込) ※ドリンク代別・入場整理番号付"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.04(Sat)10:00",
+    "ticket_vendors": [],
+    "official_site": "https://lucy2026.fanpla.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2713",
+    "artist": "PARK YUCHUN",
+    "title": "PARK YUCHUN 2026 ZEPP TOUR",
+    "venue": "Zepp Haneda(TOKYO)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2713",
+    "dates": [
+      "2026.05.19 (Tue)"
+    ],
+    "open_time": "13:45",
+    "start_time": "14:30",
+    "prices": [
+      "※公演毎に、ドリンク代￥600が必要です。"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://x.com/Japan_jp_office",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2556",
+    "artist": "スキマスイッチ",
+    "title": "スキマスイッチ TOUR2026 “POPMAN’S CARNIVAL vol.3”",
+    "venue": "市川市文化会館 大ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2556",
+    "dates": [
+      "2026.05.21 (Thu)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sukimaswitch/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2554",
+    "artist": "ACIDMAN",
+    "title": "ACIDMAN LIVE TOUR \"光学\"",
+    "venue": "ウェスタ川越 大ホール",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2554",
+    "dates": [
+      "2026.05.22 (Fri)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "◆S指定席(前方席) 8,000円(税込) ※モバイル会員先行限定",
+      "◆A指定席 6,800円(税込)",
+      "◆A指定席学割 4,000円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.01.10(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/acidman/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/acidman/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/acidman-/"
+      }
+    ],
+    "official_site": "http://acidman.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2741",
+    "artist": "いぎなり東北産",
+    "title": "いぎなり東北産『9人と もぎたてHALL PARTY』",
+    "venue": "Kanadevia Hall（旧 TOKYO DOME CITY HALL）",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2741",
+    "dates": [
+      "2026.05.22 (Fri)",
+      "2026.05.23 (Sat)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "1Fアリーナ（全自由・整理番号付）：8,900円（税込）",
+      "1Fアリーナ（全自由・整理番号付）学生割引：7,500円(税込)",
+      "バルコニー指定：8,900円（税込）",
+      "バルコニー指定 学生割引：7,500円（税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/madeintohoku/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/madeintohoku/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/word/0000096462"
+      }
+    ],
+    "official_site": "https://madeintohoku.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2729",
+    "artist": "D'ERLANGER",
+    "title": "Evermore TOUR 2026",
+    "venue": "高崎Club JAMMERS",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2729",
+    "dates": [
+      "2026.05.23 (Sat)",
+      "2026.05.24 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "オールスタンディング　￥9,000（税込） ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.derlanger.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2652",
+    "artist": "Eve",
+    "title": "Eve Live 2026「Re:Smile」",
+    "venue": "ぴあアリーナMM",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2652",
+    "dates": [
+      "2026.05.23 (Sat)",
+      "2026.05.24 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://eveofficial.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2667",
+    "artist": "Lucy",
+    "title": "Lucy Show 003 ～Shout, Speed, Shake Your RockaRollica～",
+    "venue": "EX THEATER ROPPONGI",
+    "ticket_status": "2026.04.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2667",
+    "dates": [
+      "2026.05.24 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "アリーナ立見 8,800円(税込) ※ドリンク代別・入場整理番号付",
+      "スタンド指定 8,800円(税込) ※ドリンク代別・座席番号付"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.04(Sat)10:00",
+    "ticket_vendors": [],
+    "official_site": "https://lucy2026.fanpla.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2466",
+    "artist": "ハンバート ハンバート",
+    "title": "歌ったり喋ったり-クアトロ篇-",
+    "venue": "SHIBUYA CLUB QUATTRO",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2466",
+    "dates": [
+      "2026.05.27 (Wed)",
+      "2026.05.28 (Thu)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由　6,500円（税込）※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "https://t.pia.jp/",
+        "url": "https://t.pia.jp/"
+      }
+    ],
+    "official_site": "http://www.humberthumbert.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2546",
+    "artist": "椎名林檎",
+    "title": "椎名林檎　党大会　令和八年列島巡回",
+    "venue": "高崎芸術劇場 大劇場",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2546",
+    "dates": [
+      "2026.05.27 (Wed)",
+      "2026.05.28 (Thu)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定　12,500円（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.22(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      }
+    ],
+    "official_site": "https://www.kronekodow.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2770",
+    "artist": "Salyu",
+    "title": "Salyu × Lily Chou-Chou Tour 2026 -星影交差-",
+    "venue": "ヒューリックホール東京",
+    "ticket_status": "2026.04.25発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2770",
+    "dates": [
+      "2026.05.29 (Fri)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席 8,800円（税込）　※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.25(Sat)10:00",
+    "ticket_vendors": [],
+    "official_site": "https://salyu.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2782",
+    "artist": "Laughing Hick",
+    "title": "Laughing Hick Presents Voyager",
+    "venue": "LIQUIDROOM",
+    "ticket_status": "2026.04.25発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2782",
+    "dates": [
+      "2026.05.29 (Fri)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "スタンディング　￥5,000-（税込・ドリンク代別）"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.25(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/laughinghick/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/laughinghick/"
+      }
+    ],
+    "official_site": "https://lit.link/LaughingHick",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2798",
+    "artist": "SunSet Swish",
+    "title": "SunSet Swish Debut Anniversary & Release Party 2026",
+    "venue": "YOKOHAMA BAYSIS",
+    "ticket_status": "2026.03.21発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2798",
+    "dates": [
+      "2026.05.29 (Fri)"
+    ],
+    "open_time": "19:00",
+    "start_time": "19:30",
+    "prices": [
+      "一般：6,500円(税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.21(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://www.swish-sunsetswish.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2768",
+    "artist": "Paradox Live",
+    "title": "Paradox Live Dope Show 2026",
+    "venue": "有明アリーナ",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2768",
+    "dates": [
+      "2026.05.30 (Sat)",
+      "2026.05.31 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "一般通しチケット（限定グッズ2点付）：28,600円（税込/全席指定）",
+      "一般通しチケット（限定グッズ1点付）：25,300円（税込/全席指定）",
+      "一般通しチケット: 22,000円（税込/全席指定）",
+      "一般チケット（限定グッズ1点付）：14,800円（税込/全席指定）",
+      "一般チケット：11,500円（税込/全席指定）",
+      "一般チケット（限定グッズ1点付）：14,800円（税込/全席指定）",
+      "一般チケット：11,500円（税込/全席指定）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://paradoxlive.jp/event/dopeshow_2026/",
+    "contact": "Paradox Live公演事務局 / 03-6280-4670（平日11時～18時）"
+  },
+  {
+    "id": "2701",
+    "artist": "FANTASTIC◇CIRCUS",
+    "title": "FANTASTIC◇CIRCUS Live Tour 2026【_ ADD ROCK FOR LIFE _】LIVE FANATIC　　　　　　　　　　　　　　　　　　　　　　FANTASTIC◇CIRCUS Live Tour 2026【_ ADD ROCK FOR LIFE _】LIVE CRISIS",
+    "venue": "Veats shibuya",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2701",
+    "dates": [
+      "2026.05.30 (Sat)",
+      "2026.05.31 (Sun)"
+    ],
+    "open_time": "15:00",
+    "start_time": "15:30",
+    "prices": [
+      "スタンディング￥6,500(税込)※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://fantasticcircus.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2796",
+    "artist": "spi",
+    "title": "spi 2026Fan Meeting 〜Talk Version〜",
+    "venue": "浜離宮朝日ホール　小ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2796",
+    "dates": [
+      "2026.06.05 (Fri)"
+    ],
+    "open_time": "18:00",
+    "start_time": "18:30",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://twitter.com/spi_event_staff",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2716",
+    "artist": "矢井田 瞳",
+    "title": "矢井田 瞳 25th Anniversary Acoustic Live Tour『DOOR to DOORS』",
+    "venue": "EX THEATER ROPPONGI",
+    "ticket_status": "2026.04.25発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2716",
+    "dates": [
+      "2026.06.05 (Fri)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "全席指定￥7,500(税込)※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.25(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://yaiko.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2353",
+    "artist": "aiko",
+    "title": "aiko Live Tour Love Like Pop vol.25",
+    "venue": "東京ガーデンシアター",
+    "ticket_status": "SOLD OUT",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2353",
+    "dates": [
+      "2026.06.06 (Sat)",
+      "2026.06.07 (Sun)"
+    ],
+    "open_time": "16:30",
+    "start_time": "17:30",
+    "prices": [
+      "全席指定￥8,200(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/aiko-llp25-h2/"
+      }
+    ],
+    "official_site": "http://aiko.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2797",
+    "artist": "spi",
+    "title": "spi 2026Fan Meeting 〜Live Version〜",
+    "venue": "浜離宮朝日ホール　小ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2797",
+    "dates": [
+      "2026.06.06 (Sat)"
+    ],
+    "open_time": "11:30",
+    "start_time": "12:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://twitter.com/spi_event_staff",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2557",
+    "artist": "スキマスイッチ",
+    "title": "スキマスイッチ TOUR2026 “POPMAN’S CARNIVAL vol.3”",
+    "venue": "美喜仁桐生文化会館（桐生市市民文化会館）シルクホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2557",
+    "dates": [
+      "2026.06.06 (Sat)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sukimaswitch/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2641",
+    "artist": "PEOPLE 1",
+    "title": "仮)PEOPLE 1 2026 SS TOUR",
+    "venue": "SGC HALL ARIAKE",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2641",
+    "dates": [
+      "2026.06.06 (Sat)",
+      "2026.06.07 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "指定席 ￥8,800-(消費税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://ppppeople1.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2645",
+    "artist": "BUDDiiS",
+    "title": "BUDDiiS vol.11 Hall Tour - FLORiiA -",
+    "venue": "幕張メッセ　イベントホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2645",
+    "dates": [
+      "2026.06.06 (Sat)",
+      "2026.06.07 (Sun)"
+    ],
+    "open_time": "12:00",
+    "start_time": "13:00",
+    "prices": [
+      "指定席　￥9,500 (税込)",
+      "着席指定席　￥9,500(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://buddiis.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2629",
+    "artist": "レキシ × オシャレキシ",
+    "title": "レキシ vs オシャレキシ TOUR 2026 ～RETURN OF OSHAREKISHI～",
+    "venue": "東京国際フォーラム　ホールA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2629",
+    "dates": [
+      "2026.06.08 (Mon)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定 ￥11,900-（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2730",
+    "artist": "D'ERLANGER",
+    "title": "Evermore TOUR 2026",
+    "venue": "渋谷ストリームホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2730",
+    "dates": [
+      "2026.06.13 (Sat)",
+      "2026.06.14 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "オールスタンディング　￥9,000（税込） ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.derlanger.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2630",
+    "artist": "レキシ × オシャレキシ",
+    "title": "レキシ vs オシャレキシ TOUR 2026 ～RETURN OF OSHAREKISHI～",
+    "venue": "SGC HALL ARIAKE",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2630",
+    "dates": [
+      "2026.06.15 (Mon)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定 ￥11,900-（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2759",
+    "artist": "南野陽子",
+    "title": "YOKO MINAMINO 40th Anniversary 〜ALL singles 〜 \"楽園のDoor\" LAST FINAL",
+    "venue": "NHKホール",
+    "ticket_status": "2026.06.06発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2759",
+    "dates": [
+      "2026.06.18 (Thu)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "S席：￥9,900 (税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.06.06(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://www.southern-field.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2425",
+    "artist": "HANA",
+    "title": "HANA 1st TOUR 2026 “Born to Bloom”",
+    "venue": "パシフィコ横浜 国立大ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2425",
+    "dates": [
+      "2026.06.19 (Fri)",
+      "2026.06.20 (Sat)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席 ￥10,890(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/hana-1sttour/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/hana/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/hana/"
+      }
+    ],
+    "official_site": "https://hana.b-rave.tokyo/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2692",
+    "artist": "浪漫派マシュマロ",
+    "title": "浪漫派マシュマロ“ ステラ・オブ・ユー”〜恵比寿LIQUIDROOM編〜",
+    "venue": "LIQUIDROOM",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2692",
+    "dates": [
+      "2026.06.21 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "オールスタンディング￥5,000-(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/romanha-t/"
+      }
+    ],
+    "official_site": "https://www.romanha.info/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2680",
+    "artist": "Sou",
+    "title": "Sou LIVE TOUR 2026「Finder」",
+    "venue": "EX THEATER ROPPONGI",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2680",
+    "dates": [
+      "2026.06.21 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "オールスタンディング　6,900円(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://sou-official.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2675",
+    "artist": "Ayumu Imazu",
+    "title": "Ayumu Imazu LIVE TOUR 2026",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2675",
+    "dates": [
+      "2026.06.21 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "スタンディング：￥7,500(税込)",
+      "2階 指定席：￥7,500(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://ayumuimazu-official.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2523",
+    "artist": "Lienel",
+    "title": "Lienel 5th Live Tour 2026「Osyan」",
+    "venue": "パシフィコ横浜 国立大ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2523",
+    "dates": [
+      "2026.06.21 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "全席指定：9,000円(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/lienel-t/ "
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/lienel/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/lienel/"
+      }
+    ],
+    "official_site": "https://lienel.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2685",
+    "artist": "郷ひろみ",
+    "title": "Hiromi Go Concert Tour 2026 〜ALL MY LOVE〜",
+    "venue": "NHKホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2685",
+    "dates": [
+      "2026.06.24 (Wed)",
+      "2026.06.25 (Thu)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "一般指定席 ￥11,000-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.hiromi-go.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2687",
+    "artist": "NEE",
+    "title": "NEE 11th TOUR「よろしく爆裂お願いしますTOUR」",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "2026.04.11発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2687",
+    "dates": [
+      "2026.06.26 (Fri)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "1F スタンディング ¥6,500-(税込)",
+      "2F 指定席 ¥6,500-(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.11(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/nee-11thtour/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/nee/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/nee/"
+      }
+    ],
+    "official_site": "https://neeofficial.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2731",
+    "artist": "D'ERLANGER",
+    "title": "Evermore TOUR 2026",
+    "venue": "SUPERNOVA KAWASAKI",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2731",
+    "dates": [
+      "2026.06.27 (Sat)",
+      "2026.06.28 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "オールスタンディング　￥9,000（税込） ※ドリンク代別"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.derlanger.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2555",
+    "artist": "ACIDMAN",
+    "title": "ACIDMAN LIVE TOUR \"光学\"",
+    "venue": "幕張メッセ　国際展示場9・10ホール",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2555",
+    "dates": [
+      "2026.06.27 (Sat)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "◆SS指定席 15,000円(税込) ※モバイル会員先行限定",
+      "◆S指定席 10,000円(税込)",
+      "◆A指定席 8,500円(税込)",
+      "◆A指定席学割 5,000円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.01.10(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/acidman/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/acidman/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/acidman-/"
+      }
+    ],
+    "official_site": "http://acidman.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2693",
+    "artist": "Chrono▷◀Reverse",
+    "title": "Chrono▷◀Reverse 1st Live Tour「Rise of Re:Virth」",
+    "venue": "Kanadevia Hall（旧 TOKYO DOME CITY HALL）",
+    "ticket_status": "2026.03.28発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2693",
+    "dates": [
+      "2026.06.28 (Sun)"
+    ],
+    "open_time": "13:30",
+    "start_time": "14:30",
+    "prices": [
+      "全席指定：8,800円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.28(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/chronover/"
+      }
+    ],
+    "official_site": "https://chronoreverse.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2714",
+    "artist": "肉チョモランマ",
+    "title": "肉チョモランマ  ワンマンライブ 2026『大決戦』",
+    "venue": "Kアリーナ横浜",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2714",
+    "dates": [
+      "2026.07.04 (Sat)",
+      "2026.07.05 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://meychan.com/nikuchomolive/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2584",
+    "artist": "Laughing Hick",
+    "title": "Laughing Hick  ONEMAN TOUR 2026 \"ハロー ノットグッバイ”",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "2026.03.14発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2584",
+    "dates": [
+      "2026.07.10 (Fri)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "1Fスタンディング　￥5,500-（税込・ドリンク代別）",
+      "2F指定席　￥5,500-（税込・ドリンク代別）"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.14(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2541549"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/laughinghick/"
+      }
+    ],
+    "official_site": "https://lit.link/LaughingHick",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2783",
+    "artist": "SALT＆SUGAR",
+    "title": "SALT＆SUGAR「３０年ってあなた！」ホールツアー",
+    "venue": "めぐろパーシモンホール",
+    "ticket_status": "2026.05.09発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2783",
+    "dates": [
+      "2026.07.11 (Sat)"
+    ],
+    "open_time": "15:00",
+    "start_time": "16:00",
+    "prices": [
+      "全席指定　￥8,800-（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.05.09(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://singliketalking.jp/news/358188",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2426",
+    "artist": "HANA",
+    "title": "HANA 1st TOUR 2026 “Born to Bloom”",
+    "venue": "東京ガーデンシアター",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2426",
+    "dates": [
+      "2026.07.11 (Sat)",
+      "2026.07.12 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席 ￥10,890(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/hana-1sttour/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/hana/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/hana/"
+      }
+    ],
+    "official_site": "https://hana.b-rave.tokyo/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2789",
+    "artist": "竹渕慶",
+    "title": "竹渕慶 TOUR 2026 〜この歌をあなたに〜 BAND with 齊藤ジョニー",
+    "venue": "Yokohama mint hall",
+    "ticket_status": "2026.04.12発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2789",
+    "dates": [
+      "2026.07.12 (Sun)"
+    ],
+    "open_time": "14:30",
+    "start_time": "15:00",
+    "prices": [
+      "全自由（整理番号付）6,000円※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.12(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://backtotheholiday.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2577",
+    "artist": "山本彩",
+    "title": "山本彩 LIVE at 武道館",
+    "venue": "日本武道館",
+    "ticket_status": "2026.03.28発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2577",
+    "dates": [
+      "2026.07.14 (Tue)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "指定席8,800円（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.28(Sat)12:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/yamamotosayaka-2526/"
+      },
+      {
+        "name": "ローチケ",
+        "url": "https://l-tike.com/yamamoto-sayaka/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/yamamotos/"
+      }
+    ],
+    "official_site": "https://yamamotosayaka.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2763",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "千葉ANGA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2763",
+    "dates": [
+      "2026.07.15 (Wed)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※ドリンク代別　※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2764",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "Yokohama mint hall",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2764",
+    "dates": [
+      "2026.07.16 (Thu)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※ドリンク代別　※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2490",
+    "artist": "TRUE",
+    "title": "TRUE Live Tour PLAY! vol.3 -乱舞-",
+    "venue": "LINE CUBE SHIBUYA（渋谷公会堂）",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2490",
+    "dates": [
+      "2026.07.17 (Fri)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "VIP席：￥15,000（税込）",
+      "指定席：￥8,500（税込）",
+      "U-25指定席：￥3,900(税込)※指定席よりも後方"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://true-singer.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2790",
+    "artist": "竹渕慶",
+    "title": "竹渕慶 TOUR 2026 〜この歌をあなたに〜 BAND with 齊藤ジョニー",
+    "venue": "千葉ANGA",
+    "ticket_status": "2026.04.12発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2790",
+    "dates": [
+      "2026.07.19 (Sun)"
+    ],
+    "open_time": "14:30",
+    "start_time": "15:00",
+    "prices": [
+      "全自由（整理番号付）6,000円※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.12(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://backtotheholiday.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2721",
+    "artist": "DIMENSION",
+    "title": "Live Dimensional-2026 ～35th Anniversary Special Live～",
+    "venue": "大手町三井ホール",
+    "ticket_status": "2026.06.13発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2721",
+    "dates": [
+      "2026.07.19 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定　8,000円（税込） ※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.06.13(Sat)10:00",
+    "ticket_vendors": [],
+    "official_site": "http://dimension-tokyo.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2572",
+    "artist": "大橋ちっぽけ",
+    "title": "大橋ちっぽけワンマンツアー2026",
+    "venue": "SHIBUYA PLEASURE PLEASURE",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2572",
+    "dates": [
+      "2026.07.19 (Sun)"
+    ],
+    "open_time": "17:15",
+    "start_time": "18:00",
+    "prices": [
+      "指定席￥6,000-(税込) ※ドリンク代、別途必要"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://www.universal-music.co.jp/ohashi-chippoke/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2691",
+    "artist": "syudou",
+    "title": "syudou Live 2026 「プライド」",
+    "venue": "TOYOTA ARENA TOKYO",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2691",
+    "dates": [
+      "2026.07.20 (Mon)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "指定席￥8,800-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://syudou.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2620",
+    "artist": "Negicco",
+    "title": "Negicco 23rd Anniversary Concert：TO THREE supported byサトウ食品",
+    "venue": "豊洲PIT",
+    "ticket_status": "2026.05.01発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2620",
+    "dates": [
+      "2026.07.20 (Mon)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "※全席種、入場時別途ドリンク代￥600必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.05.01(Fri)19:00",
+    "ticket_vendors": [],
+    "official_site": "http://negicco.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2765",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "MOJO",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2765",
+    "dates": [
+      "2026.07.21 (Tue)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※ドリンク代別　※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2766",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "桜座",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2766",
+    "dates": [
+      "2026.07.22 (Wed)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※ドリンク代別　※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2635",
+    "artist": "ILLIT",
+    "title": "ILLIT LIVE 'PRESS START♥︎' in JAPAN",
+    "venue": "TOYOTA ARENA TOKYO",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2635",
+    "dates": [
+      "2026.07.23 (Thu)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "■VIP席：￥26,000円(税込)",
+      "※「指定席￥15,000(税込) + アップグレード￥11,000(税込)」",
+      "■指定席：￥15,000(税込)",
+      "■スタンド着席指定席：￥15,000(税込)※アップグレード受付対象外"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://illit-official.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2588",
+    "artist": "w-inds.",
+    "title": "w-inds. 25th Anniversary Best Single LIVE TOUR 2026 “GOLDEN SINGLES”",
+    "venue": "NHKホール",
+    "ticket_status": "2026.07.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2588",
+    "dates": [
+      "2026.07.24 (Fri)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定9,500円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.07.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/w-inds25thtour/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/w-inds-concert/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/w-inds/"
+      }
+    ],
+    "official_site": "https://w-inds.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2636",
+    "artist": "ILLIT",
+    "title": "ILLIT LIVE 'PRESS START♥︎' in JAPAN",
+    "venue": "TOYOTA ARENA TOKYO",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2636",
+    "dates": [
+      "2026.07.25 (Sat)",
+      "2026.07.26 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "■VIP席：￥26,000円(税込)",
+      "※「指定席￥15,000(税込) + アップグレード￥11,000(税込)」",
+      "■指定席：￥15,000(税込)",
+      "■スタンド着席指定席：￥15,000(税込)※アップグレード受付対象外"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://illit-official.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2676",
+    "artist": "アンジェラ・アキ",
+    "title": "Angela Aki Tour 2026 SHADOW WORK",
+    "venue": "NHKホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2676",
+    "dates": [
+      "2026.07.25 (Sat)",
+      "2026.07.26 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "全席指定 9,900円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/angela-aki-2026/"
+      }
+    ],
+    "official_site": "http://www.sonymusic.co.jp/Music/Info/AngelaAki/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2791",
+    "artist": "竹渕慶",
+    "title": "竹渕慶 TOUR 2026 〜この歌をあなたに〜 BAND with 齊藤ジョニー",
+    "venue": "高崎 Club JAMMER'S",
+    "ticket_status": "2026.04.12発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2791",
+    "dates": [
+      "2026.07.26 (Sun)"
+    ],
+    "open_time": "14:30",
+    "start_time": "15:00",
+    "prices": [
+      "全自由（整理番号付）6,000円※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.12(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://backtotheholiday.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2698",
+    "artist": "郷ひろみ",
+    "title": "Hiromi Go Concert Tour 2026 〜ALL MY LOVE〜",
+    "venue": "LINE CUBE SHIBUYA（渋谷公会堂）",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2698",
+    "dates": [
+      "2026.07.28 (Tue)",
+      "2026.07.29 (Wed)"
+    ],
+    "open_time": "16:15",
+    "start_time": "17:00",
+    "prices": [
+      "一般指定席 ￥11,000-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.hiromi-go.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2772",
+    "artist": "Finally",
+    "title": "Finally 5th Anniversary & Major Debut One-Man Live 「door」",
+    "venue": "Zepp Shinjuku (TOKYO)",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2772",
+    "dates": [
+      "2026.07.29 (Wed)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "一般チケット:3,500円(税込)",
+      "女性限定チケット:2,500円(税込)",
+      "※全券種、入場時ドリンク代（600円）別途"
+    ],
+    "ticket_sale_date": "一般発売：2026.03.04(Wed)18:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://www.finally-official.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2589",
+    "artist": "JUJU",
+    "title": "JUJU HALL TOUR 2026 純喫茶JUJU「時間旅⾏」演出:松任⾕正隆",
+    "venue": "NHKホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2589",
+    "dates": [
+      "2026.07.29 (Wed)",
+      "2026.07.30 (Thu)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席　9,500円（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.jujunyc.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2785",
+    "artist": "龍宮城",
+    "title": "龍宮城 LIVE TOUR 2026",
+    "venue": "KT Zepp Yokohama",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2785",
+    "dates": [
+      "2026.07.30 (Thu)",
+      "2026.07.31 (Fri)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "1F全自由：8,900円（税込）",
+      "2F指定席：8,900円（税込）",
+      "2Fファミリー席：8,900円（税込）",
+      "※1ドリンク代別途600円"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://ryugujo-official.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2695",
+    "artist": "ラブライブ！スーパースター!! Liella!のちゅーとりえらいぶ!!",
+    "title": "ラブライブ！スーパースター!! Liella!のちゅーとりえらいぶ!! 2026",
+    "venue": "LaLa arena TOKYO-BAY",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2695",
+    "dates": [
+      "2026.08.01 (Sat)",
+      "2026.08.02 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定：12,000円 (税込)",
+      "アップグレード：4,000円(税込)",
+      "一定期間内にチケットをご購入いただいたお客様を対象に、＋￥4,000（税込）にて"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://tutoliella-live.jp",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2792",
+    "artist": "竹渕慶",
+    "title": "竹渕慶 TOUR 2026 〜この歌をあなたに〜 BAND with 齊藤ジョニー",
+    "venue": "西川口Hearts",
+    "ticket_status": "2026.04.12発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2792",
+    "dates": [
+      "2026.08.01 (Sat)"
+    ],
+    "open_time": "15:30",
+    "start_time": "16:00",
+    "prices": [
+      "全自由（整理番号付）6,000円※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.12(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://backtotheholiday.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2725",
+    "artist": "Lavt",
+    "title": "Lavt 3rd Oneman Live 「RE:BORN」",
+    "venue": "LIQUIDROOM",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2725",
+    "dates": [
+      "2026.08.02 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://lavt.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2767",
+    "artist": "さかいゆう",
+    "title": "さかいゆう自身初の日本全国47都道府県ツアー \"mYUsic”",
+    "venue": "BLUES ALLEY JAPAN",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2767",
+    "dates": [
+      "2026.08.03 (Mon)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全自由席　¥6,600（税込）※ワンドリンクワンフードオーダー　※整理番号付き"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sakaiyu/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2576",
+    "artist": "LANA",
+    "title": "LANA LIVE TOUR 2026 “DIAMONDS IN THE SKY”",
+    "venue": "国立代々木競技場　第一体育館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2576",
+    "dates": [
+      "2026.08.04 (Tue)",
+      "2026.08.05 (Wed)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://lanal7.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2802",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "HEAVEN'S ROCKさいたま新都心VJ-3",
+    "ticket_status": "2026.07.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2802",
+    "dates": [
+      "2026.08.04 (Tue)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "全自由席 ¥5,500-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.07.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-acoustic/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2806",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "WWW X",
+    "ticket_status": "2026.07.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2806",
+    "dates": [
+      "2026.08.05 (Wed)"
+    ],
+    "open_time": "18:15",
+    "start_time": "19:00",
+    "prices": [
+      "スタンディング ¥6,600-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.07.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-band/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2719",
+    "artist": "ONE LOVE ONE HEART",
+    "title": "ONE LOVE ONE HEART Summer Oneman Live 2026",
+    "venue": "Shibuya LOVEZ",
+    "ticket_status": "2026.07.18発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2719",
+    "dates": [
+      "2026.08.06 (Thu)"
+    ],
+    "open_time": "14:30",
+    "start_time": "15:30",
+    "prices": [
+      "全席指定 8,400円(税込)　※入場時別途ドリンク代600円"
+    ],
+    "ticket_sale_date": "一般発売：2026.07.18(Sat)12:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/artist/000000000904205/"
+      }
+    ],
+    "official_site": "https://oneloveoneheart.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2803",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "Yokohama mint hall",
+    "ticket_status": "2026.07.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2803",
+    "dates": [
+      "2026.08.07 (Fri)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "全自由席 ¥5,500-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.07.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-acoustic/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2804",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "club SONIC mito",
+    "ticket_status": "2026.07.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2804",
+    "dates": [
+      "2026.08.09 (Sun)"
+    ],
+    "open_time": "17:00",
+    "start_time": "17:30",
+    "prices": [
+      "全自由席 ¥5,500-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.07.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-acoustic/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2805",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "千葉ANGA",
+    "ticket_status": "2026.07.04発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2805",
+    "dates": [
+      "2026.08.10 (Mon)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "全自由席 ¥5,500-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.07.04(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-acoustic/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2751",
+    "artist": "スターダスト☆レビュー",
+    "title": "45周年ツアー2025～27「星屑冒険王」",
+    "venue": "J:COMホール八王子",
+    "ticket_status": "2026.06.27発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2751",
+    "dates": [
+      "2026.08.11 (Tue)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "●一般・指定席[前売]￥8,800(税込)",
+      "●ジュニア/シニア/障がい者(児)割引・指定席[前売]￥8,300(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.06.27(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "http://www.s-d-r.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2793",
+    "artist": "竹渕慶",
+    "title": "竹渕慶 TOUR 2026 〜この歌をあなたに〜 BAND with 齊藤ジョニー",
+    "venue": "SHIBUYA PLEASURE PLEASURE",
+    "ticket_status": "2026.04.12発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2793",
+    "dates": [
+      "2026.08.11 (Tue)"
+    ],
+    "open_time": "14:30",
+    "start_time": "15:00",
+    "prices": [
+      "全自由（整理番号付）6,000円※ドリンク代別途必要"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.12(Sun)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://backtotheholiday.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2449",
+    "artist": "松本千夏",
+    "title": "松本千夏 Live Tour 2026 in Tokyo",
+    "venue": "WWW X",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2449",
+    "dates": [
+      "2026.08.15 (Sat)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "一般：6,000円（税込）",
+      "学生割：3,900円（税込）"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.28(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "https://matsumotochinatsu.com",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2722",
+    "artist": "Skoop On Somebody",
+    "title": "club SOS 2026 Rise’n’Ride",
+    "venue": "SHIBUYA PLEASURE PLEASURE",
+    "ticket_status": "2026.04.03発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2722",
+    "dates": [
+      "2026.08.19 (Wed)",
+      "2026.08.20 (Thu)"
+    ],
+    "open_time": "18:00",
+    "start_time": "18:30",
+    "prices": [
+      "●FC限定VIP指定席 25,000円(税込) ※ドリンク代別(600円)",
+      "●通常指定席 8,800円(税込) ※ドリンク代別(600円)"
+    ],
+    "ticket_sale_date": "一般発売：2026.04.03(Fri)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/skooponsomebody/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/skooponsomebody/"
+      },
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/skooponsomebody/"
+      }
+    ],
+    "official_site": "https://www.skoop.jp/index.php",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2558",
+    "artist": "スキマスイッチ",
+    "title": "スキマスイッチ TOUR2026 “POPMAN’S CARNIVAL vol.3”",
+    "venue": "カルッツかわさき(川崎市スポーツ・文化センター)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2558",
+    "dates": [
+      "2026.08.19 (Wed)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sukimaswitch/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2737",
+    "artist": "10-FEET",
+    "title": "10-FEET \"壊れて消えるまで\" ONE-MAN TOUR 2026",
+    "venue": "KT Zepp Yokohama",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2737",
+    "dates": [
+      "2026.08.26 (Wed)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "https://l-tike.com/contact/",
+        "url": "https://l-tike.com/contact/"
+      }
+    ],
+    "official_site": "https://10-feet.kyoto/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2777",
+    "artist": "VOKSY DAYS",
+    "title": "VOKSY DAYS 初・東阪ツアー「（タイトル未定）」",
+    "venue": "Zepp DiverCity(TOKYO)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2777",
+    "dates": [
+      "2026.08.27 (Thu)"
+    ],
+    "open_time": "14:30",
+    "start_time": "15:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "https://l-tike.com/contact/",
+        "url": "https://l-tike.com/contact/"
+      }
+    ],
+    "official_site": "https://voksydays.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2559",
+    "artist": "スキマスイッチ",
+    "title": "スキマスイッチ TOUR2026 “POPMAN’S CARNIVAL vol.3”",
+    "venue": "J:COMホール八王子(八王子市民会館)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2559",
+    "dates": [
+      "2026.08.27 (Thu)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sukimaswitch/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2787",
+    "artist": "初音ミク",
+    "title": "初音ミク「マジカルミライ 2026」in TOKYO ＜企画展＞",
+    "venue": "幕張メッセ　国際展示場1・2・3ホール",
+    "ticket_status": "2026.08.01発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2787",
+    "dates": [
+      "2026.08.28 (Fri)",
+      "2026.08.30 (Sun)"
+    ],
+    "open_time": "9:00",
+    "start_time": "18:00",
+    "prices": [
+      "企画展チケット 1,000円(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.08.01(Sat)12:00",
+    "ticket_vendors": [],
+    "official_site": "https://magicalmirai.com/2026/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2788",
+    "artist": "初音ミク",
+    "title": "初音ミク「マジカルミライ 2026」in TOKYO ＜ライブ＞",
+    "venue": "幕張メッセ　国際展示場9ホール",
+    "ticket_status": "2026.08.01発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2788",
+    "dates": [
+      "2026.08.28 (Fri)",
+      "2026.08.30 (Sun)"
+    ],
+    "open_time": "11:00",
+    "start_time": "12:00",
+    "prices": [
+      "・ライブチケットのみ 9,300円(税込)",
+      "・ライブチケット＋企画展チケットセット 10,300円(税込)",
+      "※セット販売の企画展チケット(1,000円/税込)はライブと同日の入場券となります。",
+      "・ライブチケットのみ 9,300円(税込)",
+      "・ライブチケット＋企画展チケットセット 10,300円(税込)",
+      "※セット販売の企画展チケット(1,000円/税込)はライブと同日の入場券となります。",
+      "・ライブチケットのみ 3,900円(税込)",
+      "・ライブチケット＋企画展チケットセット 4,900円(税込)",
+      "※セット販売の企画展チケット(1,000円/税込)はライブと同日の入場券となります。"
+    ],
+    "ticket_sale_date": "一般発売：2026.08.01(Sat)12:00",
+    "ticket_vendors": [],
+    "official_site": "https://magicalmirai.com/2026/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2642",
+    "artist": "Lenny code fiction",
+    "title": "Lenny code fiction　10周年ワンマンライブ",
+    "venue": "WWW X",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2642",
+    "dates": [
+      "2026.08.29 (Sat)"
+    ],
+    "open_time": "16:15",
+    "start_time": "17:00",
+    "prices": [
+      "オールスタンディング ￥4,000-(税込) ※ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.14(Sat)21:00",
+    "ticket_vendors": [
+      {
+        "name": "チケットぴあ",
+        "url": "https://t.pia.jp/pia/event/event.do?eventCd=2547206"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/sf/detail/2004790001-P0030085?P1=1221"
+      }
+    ],
+    "official_site": "http://www.lennycodefiction.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2560",
+    "artist": "スキマスイッチ",
+    "title": "スキマスイッチ TOUR2026 “POPMAN’S CARNIVAL vol.3”",
+    "venue": "大宮ソニックシティ 大ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2560",
+    "dates": [
+      "2026.08.31 (Mon)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sukimaswitch/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2740",
+    "artist": "神谷浩史",
+    "title": "Kiramune Presents Hiroshi Kamiya Live Tour 2026 (仮)",
+    "venue": "東京国際フォーラム　ホールA",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2740",
+    "dates": [
+      "2026.09.05 (Sat)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "全席指定 9,800円(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "https://eplus.jp/qa/",
+        "url": "https://eplus.jp/qa/"
+      }
+    ],
+    "official_site": "",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2775",
+    "artist": "Vaundy",
+    "title": "Vaundy ASIA ARENA TOUR 2026 \"HORO\"",
+    "venue": "幕張メッセ 国際展示場9・11ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2775",
+    "dates": [
+      "2026.09.05 (Sat)",
+      "2026.09.06 (Sun)"
+    ],
+    "open_time": "16:30",
+    "start_time": "18:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://vaundy.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2786",
+    "artist": "龍宮城",
+    "title": "龍宮城 LIVE TOUR 2026",
+    "venue": "Shibuya LOVEZ",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2786",
+    "dates": [
+      "2026.09.08 (Tue)",
+      "2026.09.09 (Wed)"
+    ],
+    "open_time": "17:30",
+    "start_time": "18:30",
+    "prices": [
+      "全席指定：8,900円（税込）",
+      "ファミリー席：8,900円（税込）",
+      "※1ドリンク代別途600円"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://ryugujo-official.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2592",
+    "artist": "Chevon",
+    "title": "Chevon ONE MAN TOUR 2026 『三者山羊』",
+    "venue": "横浜アリーナ",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2592",
+    "dates": [
+      "2026.09.13 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "全席指定 ￥8,800-(税込)",
+      "注釈付き指定席 ￥8,800(税込)",
+      "立見指定 ￥8,800(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.28(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      }
+    ],
+    "official_site": "https://www.chevon.biz/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2738",
+    "artist": "10-FEET",
+    "title": "10-FEET \"壊れて消えるまで\" ONE-MAN TOUR 2026",
+    "venue": "Zepp Haneda(TOKYO)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2738",
+    "dates": [
+      "2026.09.16 (Wed)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [
+      {
+        "name": "https://l-tike.com/contact/",
+        "url": "https://l-tike.com/contact/"
+      }
+    ],
+    "official_site": "https://10-feet.kyoto/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2690",
+    "artist": "Kaede",
+    "title": "Kaede「view」",
+    "venue": "東京キネマ倶楽部",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2690",
+    "dates": [
+      "2026.09.19 (Sat)"
+    ],
+    "open_time": "15:15",
+    "start_time": "16:00",
+    "prices": [],
+    "ticket_sale_date": "一般発売：2026.03.06(Fri)18:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "https://l-tike.com/negicco/"
+      }
+    ],
+    "official_site": "http://negicco.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2699",
+    "artist": "郷ひろみ",
+    "title": "Hiromi Go Concert Tour 2026 〜ALL MY LOVE〜",
+    "venue": "大宮ソニックシティ 大ホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2699",
+    "dates": [
+      "2026.09.19 (Sat)",
+      "2026.09.20 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "一般指定席 ￥11,000-(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.hiromi-go.net/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2561",
+    "artist": "スキマスイッチ",
+    "title": "スキマスイッチ TOUR2026 “POPMAN’S CARNIVAL vol.3”",
+    "venue": "SGC HALL ARIAKE",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2561",
+    "dates": [
+      "2026.09.20 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sukimaswitch/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2654",
+    "artist": "鈴木雅之",
+    "title": "masayuki suzuki taste of martini tour 2026 Step123 season2　”70 / 40th anniversary”　協賛：セイコーグループ株式会社",
+    "venue": "東京国際フォーラム ホールA",
+    "ticket_status": "発売中",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2654",
+    "dates": [
+      "2026.09.22 (Tue)"
+    ],
+    "open_time": "17:00",
+    "start_time": "18:00",
+    "prices": [
+      "全席指定¥11,000(税込)"
+    ],
+    "ticket_sale_date": "一般発売：2026.02.14(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "ローソンチケット",
+        "url": "http://l-tike.com/martin2026/"
+      },
+      {
+        "name": "チケットぴあ",
+        "url": "https://w.pia.jp/t/suzukimasayuki-t/"
+      },
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/martin/"
+      }
+    ],
+    "official_site": "http://www.martin.co.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2617",
+    "artist": "田原俊彦",
+    "title": "TOSHIHIKO TAHARA DOUBLE ’T’ TOUR 2026 Dance with KING of IDOL パーティーはこれからだ！",
+    "venue": "NHKホール",
+    "ticket_status": "2026.06.27発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2617",
+    "dates": [
+      "2026.09.23 (Wed)"
+    ],
+    "open_time": "16:30",
+    "start_time": "17:30",
+    "prices": [],
+    "ticket_sale_date": "一般発売：2026.06.27(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "",
+        "url": "https://t.pia.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://eplus.jp/"
+      },
+      {
+        "name": "",
+        "url": "https://l-tike.com/"
+      }
+    ],
+    "official_site": "http://www.toshihikotahara.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2480",
+    "artist": "MINMI",
+    "title": "MINMI THE 日本武道館 〜 it's not too late 〜",
+    "venue": "日本武道館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2480",
+    "dates": [
+      "2026.10.08 (Thu)"
+    ],
+    "open_time": "18:00",
+    "start_time": "19:00",
+    "prices": [
+      "①【FC限定】日本武道館タオル付きチケット：￥13,000(税込)",
+      "②【学生】FC限定日本武道館タオル付きチケット：￥10,000(税込) ※公演当日学生証提示必要",
+      "③前方席確約スペシャルグッズ付きチケット：￥33,000(税込)",
+      "①日本武道館タオル付きチケット：￥13,000(税込)",
+      "②【学生】日本武道館タオル付きチケット：￥10,000(税込) ※公演当日学生証提示必要",
+      "指定席：￥9,980(税込)",
+      "学生(高大専)：￥7,500(税込) ※当日学生証提示",
+      "ファミリー席：￥6,500(税込) ※着席指定（お子様（3〜15歳）を含むグループ限定、2名以上でお申し込みください）",
+      "シャナナ親子席(限定)：￥33(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://minmi.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2807",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "HEAVEN'S ROCK 宇都宮 VJ-2",
+    "ticket_status": "2026.09.26発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2807",
+    "dates": [
+      "2026.10.28 (Wed)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "全自由席 ¥5,500-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.09.26(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-acoustic/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2808",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "前橋DYVER",
+    "ticket_status": "2026.09.26発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2808",
+    "dates": [
+      "2026.10.29 (Thu)"
+    ],
+    "open_time": "18:30",
+    "start_time": "19:00",
+    "prices": [
+      "全自由席 ¥5,500-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.09.26(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-acoustic/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2562",
+    "artist": "スキマスイッチ",
+    "title": "スキマスイッチ TOUR2026 “POPMAN’S CARNIVAL vol.3”",
+    "venue": "河口湖ステラシアター",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2562",
+    "dates": [
+      "2026.10.31 (Sat)"
+    ],
+    "open_time": "15:00",
+    "start_time": "16:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "http://www.office-augusta.com/sukimaswitch/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2809",
+    "artist": "竹原ピストル",
+    "title": "全国ツアー2026 \"FIRST CRY!!\"バンド編&弾き語り編",
+    "venue": "甲府CONVICTION",
+    "ticket_status": "2026.09.26発売",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2809",
+    "dates": [
+      "2026.11.03 (Tue)"
+    ],
+    "open_time": "17:00",
+    "start_time": "17:30",
+    "prices": [
+      "全自由席 ¥5,500-(税込) ※整理番号付・ドリンク代別"
+    ],
+    "ticket_sale_date": "一般発売：2026.09.26(Sat)10:00",
+    "ticket_vendors": [
+      {
+        "name": "イープラス",
+        "url": "https://eplus.jp/pistol-acoustic/"
+      }
+    ],
+    "official_site": "http://www.office-augusta.com/pistol/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2683",
+    "artist": "絢香",
+    "title": "２０th ANNIVERSARY LIVE TOUR",
+    "venue": "日本武道館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2683",
+    "dates": [
+      "2026.11.29 (Sun)"
+    ],
+    "open_time": "16:00",
+    "start_time": "17:00",
+    "prices": [
+      "S席 11,000円(税込)",
+      "A席 9,900円(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://room-ayaka.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2662",
+    "artist": "めいちゃん",
+    "title": "MEYCHAN ONE-MAN LIVE 2026『MEGA WATT』",
+    "venue": "ベルーナドーム(西武ドーム)",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2662",
+    "dates": [
+      "2026.12.05 (Sat)",
+      "2026.12.06 (Sun)"
+    ],
+    "open_time": "15:00",
+    "start_time": "17:00",
+    "prices": [],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://meychan.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2648",
+    "artist": "TK from 凛として時雨",
+    "title": "未定",
+    "venue": "日本武道館",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2648",
+    "dates": [
+      "2026.12.27 (Sun)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "指定席 ￥8,800-（税込）",
+      "指定席（高校生以下学割） ￥4,900-（税込）"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://www.sigure.jp/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  },
+  {
+    "id": "2753",
+    "artist": "ORANGE RANGE",
+    "title": "ORANGE RANGE LIVE TOUR 026-027",
+    "venue": "NHKホール",
+    "ticket_status": "",
+    "detail_url": "https://sogotokyo.com/live_information/detail/2753",
+    "dates": [
+      "2027.01.09 (Sat)"
+    ],
+    "open_time": "",
+    "start_time": "",
+    "prices": [
+      "7,300円(税込)",
+      "大人：7,300円(税込)",
+      "子供：2,500円(税込)"
+    ],
+    "ticket_sale_date": "",
+    "ticket_vendors": [],
+    "official_site": "https://orangerange.com/",
+    "contact": "SOGO TOKYO / 03-3405-9999（月〜土 12:00〜13:00/16:00〜19:00※日曜・祝日を除く） / https://sogotokyo.com/"
+  }
+]
