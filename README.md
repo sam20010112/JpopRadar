@@ -1,25 +1,60 @@
 # JpopRadar
 
-A web app for browsing and tracking J-pop concerts. Browse upcoming events, filter by artist or date, and explore concert details including ticket info and venues — all through an interactive calendar interface.
+A web app for tracking J-pop concerts — browse upcoming events, filter by artist or date, and view full ticket/venue details via an interactive calendar.
 
-## Tech Stack
+## Stack
 
-| Layer | Technology | Version |
-|---|---|---|
-| Backend | Spring Boot | 3.2.3 |
-| Language | Java | 21 |
-| Database (dev) | H2 In-Memory | 2.x |
-| Frontend | Vue 3 + Vite | 3.4 / 5.2 |
-| State | Pinia | 2.1 |
-| HTTP Client | Axios | 1.6 |
+| Layer | Technology |
+|---|---|
+| Backend | Spring Boot 3.2 / Java 21 / Maven |
+| Frontend | Vue 3 / Vite / Pinia / Vue Router / Axios |
+| Database | H2 in-memory (dev) |
 
-## Prerequisites
+## Windows Start Guide (One Command)
 
-- Java 21+ (JDK)
-- Maven 3.x
-- Node.js 18+, npm 9+
+A `start.bat` script is included at the project root. It compiles and launches both the backend and frontend in one step.
 
-## Quick Start
+**Prerequisites:**
+- Java (Temurin 25) installed at `C:\Program Files\Eclipse Adoptium\jdk-25.0.1.8-hotspot`
+- Maven available on `PATH`
+- Node.js / npm available on `PATH`
+- Frontend dependencies installed (`npm install` inside `frontend/` — first time only)
+
+**Run:**
+
+```bat
+start.bat
+```
+
+Or run the PowerShell script directly:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File start.ps1
+```
+
+Both processes launch in the background. Output is written to log files:
+
+| Service | Log |
+|---|---|
+| Backend stdout | `backend/logs/backend.log` |
+| Backend stderr | `backend/logs/backend-err.log` |
+| Frontend stdout | `frontend/logs/frontend.log` |
+| Frontend stderr | `frontend/logs/frontend-err.log` |
+
+Once running:
+- Frontend: `http://localhost:5173`
+- Backend API: `http://localhost:8080/api/concerts`
+- H2 Console: `http://localhost:8080/h2-console`
+
+To stop both services, kill the PIDs stored in `.pids` (created automatically by the script):
+
+```powershell
+Get-Content .pids | ForEach-Object { Stop-Process -Id $_ -Force -ErrorAction SilentlyContinue }
+```
+
+---
+
+## Quick Start (Manual)
 
 ### Backend
 
@@ -39,9 +74,8 @@ CP=$(cat target/classpath.txt)
   -cp "target/classes;$CP" com.jpopradar.JpopRadarApplication
 ```
 
-Backend runs at `http://localhost:8080`. H2 console at `http://localhost:8080/h2-console`.
-
-> **Note:** `./mvnw spring-boot:run` has a known classloader issue on this setup — see [SPEC_EN.md](SPEC_EN.md#12-known-issues--workarounds).
+> Runs at `http://localhost:8080`
+> H2 console: `http://localhost:8080/h2-console` (URL: `jdbc:h2:mem:jpopradar`, user: `sa`, no password)
 
 ### Frontend
 
@@ -51,24 +85,63 @@ npm install
 npm run dev
 ```
 
-Frontend runs at `http://localhost:5173`.
+> Runs at `http://localhost:5173`
 
 ## REST API
 
-Base path: `/api/concerts`
+Base URL: `/api/concerts`
 
 | Method | Path | Description |
 |---|---|---|
-| GET | `/api/concerts` | List all concerts |
-| GET | `/api/concerts/{id}` | Get concert by ID |
-| POST | `/api/concerts` | Create concert |
-| PUT | `/api/concerts/{id}` | Update concert |
-| DELETE | `/api/concerts/{id}` | Delete concert |
-| GET | `/api/concerts/upcoming` | Upcoming concerts (sorted ASC) |
-| GET | `/api/concerts/by-city?city=` | Filter by city |
-| GET | `/api/concerts/by-artist?artist=` | Filter by artist |
-| GET | `/api/concerts/scan` | Rich JSON concert data (main data source) |
+| GET | `/` | All concerts |
+| GET | `/{id}` | Concert by ID |
+| POST | `/` | Create concert |
+| PUT | `/{id}` | Update concert |
+| DELETE | `/{id}` | Delete concert |
+| GET | `/upcoming` | Future concerts sorted by date |
+| GET | `/by-city?city=` | Filter by city |
+| GET | `/by-artist?artist=` | Filter by artist |
+| GET | `/scan` | Rich concert data from JSON file |
 
-## Documentation
+## Architecture
 
-See [SPEC_EN.md](SPEC_EN.md) for full technical specification including architecture, data model, configuration, and known issues.
+```
+Backend:  Controller → Service → Repository → JPA Entity → H2
+Frontend: View → Pinia Store → api.js (Axios) → /api proxy → Backend
+```
+
+Concert data for the main browsing experience is served from `concertsScan.json` via `/api/concerts/scan`. The database-backed endpoints support CRUD operations on a simplified `Concert` entity.
+
+## Project Structure
+
+```
+JpopRadar/
+├── backend/
+│   └── src/main/
+│       ├── java/com/jpopradar/
+│       │   ├── controller/ConcertController.java
+│       │   ├── service/ConcertService.java
+│       │   ├── repository/ConcertRepository.java
+│       │   └── model/Concert.java
+│       └── resources/
+│           ├── application.properties
+│           ├── data.sql
+│           └── concertsScan.json
+└── frontend/
+    └── src/
+        ├── services/api.js
+        ├── stores/concertStore.js
+        ├── router/index.js
+        ├── views/
+        │   ├── HomeView.vue
+        │   ├── ConcertsView.vue
+        │   └── ConcertDetailView.vue
+        └── components/
+            ├── ConcertCard.vue
+            └── ConcertCalendar.vue
+```
+
+## Known Issues
+
+- **`./mvnw spring-boot:run` fails** — classloader incompatibility between system Maven 3.9.12 (Chocolatey) and `spring-boot-maven-plugin` 3.2.3. Use the manual 3-step launch above.
+- **Java version** — Must set `JAVA_HOME` to Temurin 25. Maven defaults to Amazon Corretto 8 internally, which causes "wrong class file version" errors.

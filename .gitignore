@@ -16,3 +16,6 @@ frontend/dist/
 .idea/
 *.iml
 .vscode/
+
+CLAUDE.md
+tutorial.md
