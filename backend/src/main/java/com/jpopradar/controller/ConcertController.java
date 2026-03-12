@@ -2,26 +2,21 @@ package com.jpopradar.controller;
 
 import com.jpopradar.model.Concert;
 import com.jpopradar.service.ConcertService;
-import org.springframework.beans.factory.annotation.Value;
+import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.List;
 
 @RestController
 @RequestMapping("/api/concerts")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "*")
 public class ConcertController {
 
     private final ConcertService concertService;
-
-    @Value("${concerts.scan.file}")
-    private String scanFilePath;
 
     public ConcertController(ConcertService concertService) {
         this.concertService = concertService;
@@ -77,6 +72,6 @@ public class ConcertController {
     public void getScan(HttpServletResponse response) throws IOException {
         response.setContentType("application/json");
         response.setCharacterEncoding("UTF-8");
-        Files.copy(Path.of(scanFilePath), response.getOutputStream());
+        new ClassPathResource("concertsScan.json").getInputStream().transferTo(response.getOutputStream());
     }
 }
