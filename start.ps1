@@ -30,6 +30,12 @@ $backendPid = $backendProc.Id
 Set-Location "$RepoRoot\frontend"
 New-Item -ItemType Directory -Force -Path logs | Out-Null
 
+if (-not (Test-Path "$RepoRoot\frontend\node_modules")) {
+    Write-Host "Installing frontend dependencies..."
+    & npm install --prefix "$RepoRoot\frontend"
+    if ($LASTEXITCODE -ne 0) { Write-Error "npm install failed"; exit 1 }
+}
+
 Write-Host "Starting frontend..."
 $frontendProc = Start-Process -PassThru -NoNewWindow `
     -FilePath "cmd.exe" `
