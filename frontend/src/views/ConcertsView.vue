@@ -40,7 +40,7 @@
       <button class="chip-clear" @click="clearDateFilter">×</button>
     </div>
 
-    <p v-if="store.loading">Loading...</p>
+    <p v-if="store.loading">Loading... <br>Backend may take a few minutes to cold start... <br>Please refresh later...</p>
     <p v-else-if="store.error" class="error">{{ store.error }}</p>
     <div v-else-if="sortedConcerts.length === 0">No concerts found.</div>
     <div v-else class="concert-list">

@@ -21,7 +21,7 @@
           <h2>Upcoming Concerts</h2>
           <RouterLink to="/concerts">See all concerts &rarr;</RouterLink>
         </div>
-        <p v-if="concertStore.loading" class="loading">Loading concerts...</p>
+        <p v-if="concertStore.loading" class="loading">Loading concerts... <br>Backend may take a few minutes to cold start... <br>Please refresh later...</p>
         <p v-else-if="concertStore.error" class="error">{{ concertStore.error }}</p>
         <div v-else class="card-grid">
           <ConcertCard
