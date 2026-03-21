@@ -2,13 +2,16 @@ package com.jpopradar.controller;
 
 import com.jpopradar.model.Concert;
 import com.jpopradar.service.ConcertService;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.reactive.function.client.WebClient;
 
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.time.Duration;
 import java.util.List;
 
 @RestController
@@ -17,6 +20,9 @@ import java.util.List;
 public class ConcertController {
 
     private final ConcertService concertService;
+
+    @Value("${app.concerts-scan-url:}")
+    private String concertsScanUrl;
 
     public ConcertController(ConcertService concertService) {
         this.concertService = concertService;
@@ -72,6 +78,25 @@ public class ConcertController {
     public void getScan(HttpServletResponse response) throws IOException {
         response.setContentType("application/json");
         response.setCharacterEncoding("UTF-8");
+
+        if (concertsScanUrl != null && !concertsScanUrl.isBlank()) {
+            try {
+                byte[] json = WebClient.create()
+                    .get()
+                    .uri(concertsScanUrl)
+                    .retrieve()
+                    .bodyToMono(byte[].class)
+                    .timeout(Duration.ofSeconds(10))
+                    .block();
+                if (json != null) {
+                    response.getOutputStream().write(json);
+                    return;
+                }
+            } catch (Exception e) {
+                System.err.println("[ConcertController] S3 fetch failed, falling back to classpath: " + e.getMessage());
+            }
+        }
+
         new ClassPathResource("concertsScan.json").getInputStream().transferTo(response.getOutputStream());
     }
 }
