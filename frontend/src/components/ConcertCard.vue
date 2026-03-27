@@ -30,7 +30,7 @@ const formattedDates = computed(() => {
   return matched
     .map((d) => {
       const [y, m, day] = d.split('.')
-      return new Date(`${y}-${m}-${day}`).toLocaleDateString('en-US', {
+      return new Date(Number(y), Number(m) - 1, Number(day)).toLocaleDateString('en-US', {
         year: 'numeric',
         month: 'long',
         day: 'numeric',
