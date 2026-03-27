@@ -106,7 +106,7 @@ const availableMonths = computed(() => {
     if (key && !seen.has(key)) {
       seen.add(key)
       const [y, m] = key.split('-')
-      const label = new Date(`${y}-${m}-01`).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })
+      const label = new Date(Number(y), Number(m) - 1, 1).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })
       months.push({ value: key, label })
     }
   }

@@ -120,10 +120,11 @@ const formattedDates = computed(() => {
   if (!concert.value) return ''
   const matched = concert.value.dates.filter((d) => dateRe.test(d))
   if (!matched.length) return concert.value.dates.join(', ')
+  const re = /(\d{4})\.(\d{2})\.(\d{2})/
   return matched
     .map((d) => {
-      const [y, m, day] = d.split('.')
-      return new Date(Number(y), Number(m) - 1, Number(day)).toLocaleDateString('en-US', {
+      const match = re.exec(d)
+      return new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3])).toLocaleDateString('en-US', {
         year: 'numeric',
         month: 'long',
         day: 'numeric',
